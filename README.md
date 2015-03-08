@@ -12,7 +12,7 @@ The content will be arranged in reverse chronological order
   - [February](#february-28th-2015)
   - [January](#january-31st-2015)
 - 2014
-  
+  - [December](#december-20th-2014)
 
 ### 2015
 
@@ -79,7 +79,6 @@ optimized to run on a micro-controller.
 - Slides: [Slideshare](http://www.slideshare.net/sakthirengaraj/feb-talk15)
 
 ---
-
 
 #### [January 31st 2015](#january-31st-2015)
 
@@ -157,4 +156,83 @@ generate descriptions of digital hardware.
 
 - Speaker: Shrikant Giridhar 
 - Slides: [Dropbox](https://www.dropbox.com/s/2qk2oseo9y9f3ms/hdl-talk.pdf?dl=0)
+
+---
+
+#### [December 20th 2014](#december-20th-2014)
+
+##### Python and its Functions
+
+> Functions in Python are First class. They can be passed to and from
+functions. They can be created inside other functions and a lot
+more. This talk proposes to introduce this concept.
+
+- Speaker: Shrayas Rajagopal
+- [IPython notebook](http://nbviewer.ipython.org/github/shrayasr/talks/blob/master/2014/dec/chennaipy/functions-and-decorators/Functions.ipynb)
+
+##### Breaking Free with Rope
+
+> Embedded systems have crazy restrictions. And one embedded Python
+interpreter I happened to work on, had a restriction that you couldn't
+have more that 500 distinct variable names in your application! We
+quickly hit this limit. This talk will cover how we overcame this
+restriction using Rope, a refactoring library for Python and some
+Python scripting hackery.
+
+- Speaker: Vijay Kumar
+- Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/breaking-free-with-rope)
+
+##### Introduction to Sage
+
+> Sage is a free open-source mathematics software system licensed under
+the GPL. It builds on top of many existing open-source packages:
+NumPy, SciPy, matplotlib, Sympy, Maxima, GAP, FLINT, R and many
+more. This talk will be an introduction to Sage.
+
+- Speaker: Amritanshu Prasad
+- Slides: [Dropbox](https://dl.dropboxusercontent.com/u/15301461/sage.pdf)
+
+##### Sentiment Analysis using Python
+
+> On a Sunday afternoon, you are bored. You want to watch a particular
+movie, but you know there are mixed reviews for the movie. You want to
+know the overall feeling on the movie, based on their reviews and not
+just based on their ratings. We will show you how to use a machine
+learning model to classify the sentiment of a review automatically,
+all with Python!!
+
+- Speaker: Venkatesh
+- Slides: [Github](http://vumaasha.github.io/pychennai-sentiment-analysis/),
+- [Code](https://github.com/vumaasha/pychennai-sentiment-analysis)
+
+##### Solving graph problems using NetworkX
+
+NetworkX is a python package which can be used for handling
+graphs. Through the talk I want to touch on how we see problems which
+can be solved by graph all around and how we can leverage the NetworkX
+module to solve challenging problems.
+
+- Speaker: Krishna Sangeeth
+- Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/solving-graph-problems-using-networkx)
+
+##### Decorators 
+
+> Decorators are an interesting way of doing some magic with functions
+in Python. Talk 1 (Python and its Functions) will set the base for
+this. If time permits and people are interested, we can see an
+application of Talk 1 VIZ Decorators. Decorators are a concept that is
+gaining widespread use in Python because it is just that easy to
+read. This talk proposes to give an introduction to them.
+
+- Speaker: Shrayas Rajagopal
+- [IPython notebook](http://nbviewer.ipython.org/github/shrayasr/talks/blob/master/2014/dec/chennaipy/functions-and-decorators/Decorators.ipynb)
+
+##### Building a Website Using Static Site Generators
+
+> Static site generator is a software/framework which outputs html files
+by combining text and templates, thus generating a website/blog. This
+talk will focus on how to use few of them & host the site on github.
+
+- Speaker: Gaurav Sherawat
+- Slides: [Slideshare](http://www.slideshare.net/GauravSehrawat1/static-site-generator-in-python)
 
