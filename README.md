@@ -9,12 +9,14 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
-  - [February](#february-28th)
-  - [January](#january-31st)
+  - [February](#february-28th-2015)
+  - [January](#january-31st-2015)
+- 2014
+  
 
 ### 2015
 
-#### [February 28th](#february-28th)
+#### [February 28th 2015](#february-28th-2015)
 
 ##### A Lisp powered Python 
 
@@ -79,7 +81,7 @@ optimized to run on a micro-controller.
 ---
 
 
-#### [January 31st](#january-31st)
+#### [January 31st 2015](#january-31st-2015)
 
 ##### Image Processing
 
