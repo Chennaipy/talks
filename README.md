@@ -10,6 +10,7 @@ The content will be arranged in reverse chronological order
 
 - 2015
   - [February](#february-28th)
+  - [January](#january-31st)
 
 ### 2015
 
@@ -74,4 +75,84 @@ optimized to run on a micro-controller.
 
 - Speaker: Rengaraj
 - Slides: [Slideshare](http://www.slideshare.net/sakthirengaraj/feb-talk15)
+
+---
+
+
+#### [January 31st](#january-31st)
+
+##### Image Processing
+
+> This talk will be brief description of software available for image
+processing, various features, various outcomes that can be obtained, etc.
+Python will be used as the programming language. The talk will also cover
+various effects which are possible with the images along with how to code them.
+
+- Speaker: Akshia Kumar
+- Slides: [Dropbox](https://www.dropbox.com/s/hh7s1cvk3wq4s5r/image-processing.pdf?dl=0)
+- Video: [Vimeo](https://vimeo.com/album/3253406/video/119148546)
+
+##### How Python changed my view of programming
+
+> My journey into programming started with Python. The talk is about how Python 
+made me to dive into programing which I never liked at college. Example programs 
+which I have backup of, and my first Python project.
+
+- Speaker: Rengaraj
+- Slides: [Slideshare](http://www.slideshare.net/sakthirengaraj/how-python-changed-my-view-of-programming)
+- Video: [Vimeo](https://vimeo.com/album/3253406/video/119403718)
+
+##### My Journey with the world of Open Source
+
+> This talk is about how I got into the world of Open Source and what it has
+done to me, both as a programmer and as a person. We'll explore some of my
+earliest commits and Pull Requests as we go on a journey from then, till now.
+
+- Speaker: Shrayas
+- Slides: [Speakerdeck](https://speakerdeck.com/shrayasr/my-journey-with-the-world-of-open-source)
+- Video: [Vimeo](https://vimeo.com/album/3253406/video/119355618)
+
+##### Exception handling in Python
+
+> I will discuss the try-except protocol for exception-handling in python,
+explain the exception heirarchy and how to create new exception classes.
+
+- Speaker: Prof. Amritanshu Prasad
+- Slides: [Dropbox](https://www.dropbox.com/s/q3gt011i2edindi/exception_handling.pdf?dl=0)
+- Video: [Vimeo](https://vimeo.com/album/3253406/video/119506004)
+
+##### Pystrokes
+
+> PyStokes is a Cython library for computing Stokes flows produced by spheres.
+The core of the library is written in Cython which can be called from pure
+python, so that the user can choose to work in pure python and still use the
+library.  Read more on GitHub. I will also explain some basic usage of the
+Cython and how we have used it to accelerate our computations.
+
+- Speaker: Rajesh Singh
+- Slides: [IMSc](http://www.imsc.res.in/~rsingh/discussion/files/slides/pystokes.pdf)
+- Video: [Vimeo](https://vimeo.com/album/3253406/video/118873669)
+
+##### Hangman: Design and Implementation
+
+> As part of Chennaipy activities, we did a Hangman project.  Some cool things
+we did as part of the project - unit testing, supporting Python 2 and 3, code
+coverage analysis, packaging and distribution. This talk will give an overview
+of the lessons from the Python Project. 
+
+- Speaker: Vijay Kumar
+- Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/hangman-design-and-implementation)
+- Video: [Vimeo](https://vimeo.com/album/3253406/video/119147267)
+
+##### Build your own CPU
+
+> The advent of affordable FPGAs with a decent number of gates has made
+hardware design accessible for anyone interested. But describing hardware
+accurately in software can be tricky. This is where HDLs come into the picture.
+And as with everything else, there is a Python library for easing into writing
+pure HDL code. This talk introduces development with MyHDL, a Python library to
+generate descriptions of digital hardware. 
+
+- Speaker: Shrikant Giridhar 
+- Slides: [Dropbox](https://www.dropbox.com/s/2qk2oseo9y9f3ms/hdl-talk.pdf?dl=0)
 
