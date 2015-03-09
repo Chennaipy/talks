@@ -207,7 +207,7 @@ all with Python!!
 
 ##### Solving graph problems using NetworkX
 
-NetworkX is a python package which can be used for handling
+> NetworkX is a python package which can be used for handling
 graphs. Through the talk I want to touch on how we see problems which
 can be solved by graph all around and how we can leverage the NetworkX
 module to solve challenging problems.
