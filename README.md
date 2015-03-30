@@ -13,6 +13,7 @@ The content will be arranged in reverse chronological order
   - [January](#january-31st-2015)
 - 2014
   - [December](#december-20th-2014)
+  - [November](#november-29th-2014)
 
 ### 2015
 
@@ -236,3 +237,41 @@ talk will focus on how to use few of them & host the site on github.
 - Speaker: Gaurav Sherawat
 - Slides: [Slideshare](http://www.slideshare.net/GauravSehrawat1/static-site-generator-in-python)
 
+---
+
+#### [November 29th 2014](#november-29th-2014)
+
+##### A Gentle Introduction to Generators and Coroutines in Python
+
+> Though a lot of people know Python, very few people actually
+understand generators and coroutines enough to understand how awesome
+they can be. This talk aims to provide a basic understanding of how
+and when they can be used, and why they are an important utility in
+your Python toolkit.
+
+- Speaker: Kiran Gangadharan
+- Slides: [Speakerdeck](https://speakerdeck.com/kirang89/a-gentle-introduction-to-generators-and-coroutines)
+
+##### Getting started with SQLAlchemy
+
+> SQLAlchemy is a really quirky and awesome way to do ORMs in
+python. And it has quite a learning curve at least at the initial
+stages. Once you get to know the general idea of how things work, it
+becomes pretty awesome. I've just started working with it and just
+want to talk about some things that'll help with getting started with
+SQLAlchemy.
+
+- Speaker: Shrayas Rajagopal
+- Slides: [Speakerdeck](https://speakerdeck.com/shrayasr/introduction-to-sqlalchemy-orms)
+- [IPython notebook](http://nbviewer.ipython.org/github/shrayasr/talks/blob/master/sqlalchemy-orms-chennaipy-nov2014/Demo.ipynb)
+
+##### Fun with Pandas
+
+> Pandas is Python's answer to R's Dataframes.  If that does not make
+sense, not to worry. Just think of Excel's functions in Python, only
+more versatile and able to handle much larger amounts of data. This
+will be a gentle introduction to Pandas, following which, we will try
+to apply the concepts to a Crunchbase's public dataset.
+
+- Speaker: Sharmila Gopirajan
+- [IPython notebook](http://nbviewer.ipython.org/github/sharmi/crunchbase_analysis/tree/master/)
