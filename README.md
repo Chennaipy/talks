@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [March](#march-29th-2015)
   - [February](#february-28th-2015)
   - [January](#january-31st-2015)
 - 2014
@@ -16,6 +17,50 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+#### [March](#march-29th-2015)
+
+##### Bitten By Python
+
+> Python puts lots of power in the hands of the developer. It takes lot of discipline to wield it, without hurting oneself. Through this talk I would like to convey my experiences, the techniques I have learnt and hope to inspire others to adopt them.
+
+- Speaker: Vijay Kumar
+- Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/bitten-by-python)
+
+##### My Python-BCI journey
+
+> If GUI is WYSIWYG (what you see is what you get) then BCI could become WYTIWYG (what you think is what you get). This talk would be an intro on BCI, use of python in creating brain controlled apps and live demos.
+
+- Speaker: Kannan
+
+##### Python scripting in Android using SL4A
+
+> SL4A allows to run scripts in android using most APIs that are available to native apps except that the process is simpler. It can be used to build anything from home automation systems to high altitude ballooning projects.
+
+- Speaker: Sivasubramanyam
+- Slides: [Slideshare](https://speakerdeck.com/astronomersiva/python-scripting-in-android-with-sl4a)
+
+##### How Emacs + org-mode replaced a few apps in my workflow
+
+> In this talk, I'll present a short demo about using org-mode in Emacs and how it has replaced the functionality of a few apps in my workflow. 
+
+- Speaker: Kiran Gangadharan
+
+##### Up and running with PySpark
+
+> Pyspark is the python binding available for Apache spark. Spark is now a really popular project under ASF and through the talk we can look at some basic spark concepts and using PySpark.
+
+- Speaker: Krishna Sangeeth
+- Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/up-and-running-with-pyspark)
+
+##### Sentiment Analysis in Simple Steps 
+
+> This talk is an exploration of the natural language processing capabilities of python through a simple implementation of Sentiment Analysis using a naive bayes approach. 
+
+- Speaker: Sharmila Gopirajan
+- Slides: [PDF](http://www.minvolai.com/files/sentiment_analysis.pdf)
+
+---
 
 #### [February 28th 2015](#february-28th-2015)
 
@@ -25,6 +70,7 @@ The content will be arranged in reverse chronological order
 
 - Speaker: Shrayas 
 - Slides: [Speakerdeck](https://speakerdeck.com/shrayasr/hylang-a-python-powered-lisp-and-a-lisp-powered-python)
+- Video:  [Vimeo](https://vimeo.com/122759758)
 
 ##### BigData and MapReduce
 
@@ -33,6 +79,7 @@ jobs with the option of Hadoop streaming.
 
 - Speaker: Krishna Sangeeth 
 - Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/intro-to-bigdata-hadoop-and-mapreduce)
+- Video:  [Vimeo](https://vimeo.com/122241446)
 
 ##### Using Python to Play Cupid
 
@@ -52,12 +99,14 @@ development.
 
 - Speaker: Vengatesh
 - Slides: [Slideshare](http://www.slideshare.net/vengat92/remote-control-your-pc-using-python-and-kivy)
+- Video:  [Vimeo](https://vimeo.com/122241448)
 
-##### A primer on Git and version control
+##### My Python Experience
 
-> A brief how-to on getting started with source control management using Git.
+> A collection of hacks and projects done by Shrikant using Python
 
 - Speaker: Shrikant Giridhar 
+- Video:  [Vimeo](https://vimeo.com/122241449)
 
 ##### Tips and Tricks in IPython
 
@@ -69,6 +118,7 @@ productivity tips on IPython notebook and its plugins.
   development](http://nbviewer.ipython.org/github/igauravsehrawat/chennaipy-meetup/blob/master/ipython-for%20development.ipynb)
   [For
   presentation](http://nbviewer.ipython.org/github/igauravsehrawat/chennaipy-meetup/blob/master/ipython-for-presentation.ipynb)
+- Video:[Vimeo](https://vimeo.com/123046705)
 
 ##### Learn Working of Accelerometer using Micro Python
 
