@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [April](#april-25th-2015)
   - [March](#march-29th-2015)
   - [February](#february-28th-2015)
   - [January](#january-31st-2015)
@@ -18,44 +19,113 @@ The content will be arranged in reverse chronological order
 
 ### 2015
 
+#### [April 25th 2015](#april-15th-2015)
+
+##### Managing Desktops with Ansible
+
+> Desktop administration is generally done manually. This is painful,
+especially when then are large no. of systems that are geographically
+distributed. This talk will show how configuration management tools,
+like Ansible can be used in pull mode, for desktop administration
+
+- Speaker: Vijay Kumar
+- Slides: [slideshare](http://www.slideshare.net/VijayKumarBagavathSi/slides-47393114)
+
+##### Leveraging Python Development with Virtual Environment
+
+> Virtualenv simplifies the process of managing version of packages in
+python. Developing isolated application with virtualenv is bliss. It
+addresses the problem of dependencies, version and incorrect
+permission.
+
+- Speaker: Gaurav Sherawat
+
+##### Building commandline interfaces with ArgParse
+
+> argparse is the recommended command-line parsing module in the Python
+standard library to reduce the time and effort spent on parsing and
+validating sys.argv. It converts command-line from obscure combination
+of parameters to meaningful and usable interface.
+
+- Speaker: Shanmuga
+
+##### Building a development environment using Vagrant
+
+> Vagrant is a tool for creating, configuring and managing a complete
+development environment which can run on local virtualized platforms
+such as VirtualBox or VMware, in the cloud via AWS or OpenStack, or in
+containers such as with Docker or raw LXC.
+
+- Speaker: Vengatesh
+- Slides: [slideshare](http://www.slideshare.net/vengat92/slides-47360287)
+
+##### for i in "Iterable"
+
+> A primer on iteration in Python Description: A quick primer on
+Python's iteration constructs, how they work and how they're
+implemented.
+
+- Speaker: Shrikant Giridhar
+
+##### Python, Gmail & the IMAP protocol
+
+> Quick talk on how you can access your Gmail account (and any other
+account too actually) via the IMAP protocol using python's imaplib
+library
+
+- Speaker: Shrayas
+- Slides: [speakerdeck](https://speakerdeck.com/shrayasr/python-imap-and-gmail)
+
 #### [March 29th 2015](#march-29th-2015)
 
 ##### Bitten By Python
 
-> Python puts lots of power in the hands of the developer. It takes lot of discipline to wield it, without hurting oneself. Through this talk I would like to convey my experiences, the techniques I have learnt and hope to inspire others to adopt them.
+> Python puts lots of power in the hands of the developer. It takes lot of
+> discipline to wield it, without hurting oneself. Through this talk I would
+> like to convey my experiences, the techniques I have learnt and hope to
+> inspire others to adopt them.
 
 - Speaker: Vijay Kumar
 - Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/bitten-by-python)
 
 ##### My Python-BCI journey
 
-> If GUI is WYSIWYG (what you see is what you get) then BCI could become WYTIWYG (what you think is what you get). This talk would be an intro on BCI, use of python in creating brain controlled apps and live demos.
+> If GUI is WYSIWYG (what you see is what you get) then BCI could become
+> WYTIWYG (what you think is what you get). This talk would be an intro on BCI,
+> use of python in creating brain controlled apps and live demos.
 
 - Speaker: Kannan
 
 ##### Python scripting in Android using SL4A
 
-> SL4A allows to run scripts in android using most APIs that are available to native apps except that the process is simpler. It can be used to build anything from home automation systems to high altitude ballooning projects.
+> SL4A allows to run scripts in android using most APIs that are available to
+> native apps except that the process is simpler. It can be used to build
+> anything from home automation systems to high altitude ballooning projects.
 
 - Speaker: Sivasubramanyam
 - Slides: [Slideshare](https://speakerdeck.com/astronomersiva/python-scripting-in-android-with-sl4a)
 
 ##### How Emacs + org-mode replaced a few apps in my workflow
 
-> In this talk, I'll present a short demo about using org-mode in Emacs and how it has replaced the functionality of a few apps in my workflow. 
+> In this talk, I'll present a short demo about using org-mode in Emacs and how
+> it has replaced the functionality of a few apps in my workflow. 
 
 - Speaker: Kiran Gangadharan
 
 ##### Up and running with PySpark
 
-> Pyspark is the python binding available for Apache spark. Spark is now a really popular project under ASF and through the talk we can look at some basic spark concepts and using PySpark.
+> Pyspark is the python binding available for Apache spark. Spark is now a
+> really popular project under ASF and through the talk we can look at some
+> basic spark concepts and using PySpark.
 
 - Speaker: Krishna Sangeeth
 - Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/up-and-running-with-pyspark)
 
 ##### Sentiment Analysis in Simple Steps 
 
-> This talk is an exploration of the natural language processing capabilities of python through a simple implementation of Sentiment Analysis using a naive bayes approach. 
+> This talk is an exploration of the natural language processing capabilities
+> of python through a simple implementation of Sentiment Analysis using a naive
+> bayes approach. 
 
 - Speaker: Sharmila Gopirajan
 - Slides: [PDF](http://www.minvolai.com/files/sentiment_analysis.pdf)
