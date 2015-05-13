@@ -76,6 +76,8 @@ library
 - Speaker: Shrayas
 - Slides: [speakerdeck](https://speakerdeck.com/shrayasr/python-imap-and-gmail)
 
+---
+
 #### [March 29th 2015](#march-29th-2015)
 
 ##### Bitten By Python
