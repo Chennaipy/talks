@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [May](#may-23rd-2015)
   - [April](#april-25th-2015)
   - [March](#march-29th-2015)
   - [February](#february-28th-2015)
@@ -18,6 +19,51 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+#### [May 23rd 2015](#may-23rd-2015)
+
+##### Predictive Models at Scale using Dumbo
+
+> The data science stack for Python is mature and robust. Libraries like Numpy,
+SciPy and scikit-learn allow data scientists to build predictive models easily.
+However, when it comes to making predictions on large volumes remains an
+operational challenging. Data scientists typically end up using Python just for
+prototyping models and then implement models in Java so they can leverage
+Hadoop. With libraries like Dumbo make it possible to build and run machine
+learning models in Python that can make predictions over very large datasets.
+The talk will describe the problem and the proposed solution with example code.
+
+- Speaker: Nikhil Ketkar
+- Slides: [Google Drive](https://drive.google.com/file/d/0BxLwrVw35aa9SmJlRUFZQ3AxanM/view?usp=sharing)
+
+##### Memory Management in Python
+
+> The talk will cover the following topics: How Reference Counting Works, Issues
+with Reference Counting , Cycle Detection and GC, Useful Third Party Modules.
+Not many people really require to know how Python manages memory. But it is
+kind of nice to know how things work under the hood.
+
+- Speaker: Vijay Kumar
+- Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/memory-management-in-python)
+
+
+##### Building a face detection tool using OpenCV on Raspberry Pi 
+
+> This talk will include learning about picamera module and opencv.I will be
+using Haar's Cascade classifier as training model for facedetection.And a real
+case scenario of using it.
+
+- Speaker: Gaurav Sehrawat 
+
+##### All things *Py*
+
+> Random assorted stuff on Python taken from the world wide web thingy. This is a
+pretty basic beginner friendly talk which i hope would resonate with beginners.
+
+- Speaker: Krishna Sangeeth
+- Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/all-things-py)
+
+---
 
 #### [April 25th 2015](#april-15th-2015)
 
