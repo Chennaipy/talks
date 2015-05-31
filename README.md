@@ -76,6 +76,7 @@ like Ansible can be used in pull mode, for desktop administration
 
 - Speaker: Vijay Kumar
 - Slides: [slideshare](http://www.slideshare.net/VijayKumarBagavathSi/slides-47393114)
+- Video: [Vimeo](https://vimeo.com/127725815)
 
 ##### Leveraging Python Development with Virtual Environment
 
@@ -104,6 +105,7 @@ containers such as with Docker or raw LXC.
 
 - Speaker: Vengatesh
 - Slides: [slideshare](http://www.slideshare.net/vengat92/slides-47360287)
+- Video: [Vimeo](https://vimeo.com/127725814)
 
 ##### for i in "Iterable"
 
@@ -112,6 +114,7 @@ Python's iteration constructs, how they work and how they're
 implemented.
 
 - Speaker: Shrikant Giridhar
+- Video: [Vimeo](https://vimeo.com/127725810)
 
 ##### Python, Gmail & the IMAP protocol
 
@@ -152,6 +155,7 @@ library
 
 - Speaker: Sivasubramanyam
 - Slides: [Slideshare](https://speakerdeck.com/astronomersiva/python-scripting-in-android-with-sl4a)
+- Video: [Vimeo](https://vimeo.com/125968959)
 
 ##### How Emacs + org-mode replaced a few apps in my workflow
 
@@ -159,6 +163,7 @@ library
 > it has replaced the functionality of a few apps in my workflow. 
 
 - Speaker: Kiran Gangadharan
+- Video: [Vimeo](https://vimeo.com/125758240)
 
 ##### Up and running with PySpark
 
@@ -168,6 +173,7 @@ library
 
 - Speaker: Krishna Sangeeth
 - Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/up-and-running-with-pyspark)
+- Video: [Vimeo](https://vimeo.com/125758242)
 
 ##### Sentiment Analysis in Simple Steps 
 
@@ -177,6 +183,7 @@ library
 
 - Speaker: Sharmila Gopirajan
 - Slides: [PDF](http://www.minvolai.com/files/sentiment_analysis.pdf)
+- Video: [Vimeo](https://vimeo.com/125758238)
 
 ---
 
