@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [June](#june-27th-2015)
   - [May](#may-23rd-2015)
   - [April](#april-25th-2015)
   - [March](#march-29th-2015)
@@ -19,6 +20,55 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+#### [June 27th 2015](#june-27th-2015)
+
+##### Writing Parsers in Python By Hand
+
+> The talk is about writing parsers in Python by hand, basically, without using
+any library or parser generator tools.
+
+- Speaker: KS Sreeram
+
+##### Object Oriented Programming Paradigms in Python
+
+> Learn OOP the pythonic way. Most of us have learnt OOP fundamentals using
+C++/Java/C# and similar languages. Applying these concepts in python could be a
+bit tricky as Python might feel lacking features that we've been comfortably
+using in Java/C++ like "public", "private", "protected", "abstract", "virtual"
+and so many other keywords. This talk would emphasize on unlearning Java/C++
+style OOP and learn a more mature OOP design that python emphasizes. Concepts
+like DuckTyping, Introspective OO design and run-time polymorphism will be
+covered.
+
+- Speaker: Chandrashekar Babu
+- Slides: [Slideshare](http://www.slideshare.net/ch4ndru/python-oop-paradigms-and-pythonisms)
+- Video: [Youtube](https://www.youtube.com/watch?v=4vVza5eAl50)
+
+##### Building websites using Plone
+
+> Users of successful websites constantly demand new features and present unique
+requirements. When built using a powerful and flexible Content Management
+System (CMS), it becomes a cinch to provide new functionality. This talk
+provides a gentle introduction to Plone, its long track record of success and
+why you owe it to yourself to look at it in closer detail. Some most used and
+attractive features of Plone will be highlighted.
+
+- Speaker: Suresh V
+
+##### Managing Jenkins with Python
+
+> The benefits of Continuous Integration systems is well understood today.
+Jenkins, a Continuous Integration system has been adopted by many organizations
+today. But as the no. of Jenkins jobs increases, managing them becomes tedious.
+Autojenkins, a Python package for interacting the with Jenkins, can be used for
+managing Jenkins jobs. In this talk, I will show how we use Autojenkins at
+Zilogic to easily manage over 150 jobs.
+
+- Speaker: Vijay Kumar B
+- Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/managing-jenkins-with-python)
+
+---
 
 #### [May 23rd 2015](#may-23rd-2015)
 
