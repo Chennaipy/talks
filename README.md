@@ -29,6 +29,7 @@ The content will be arranged in reverse chronological order
 any library or parser generator tools.
 
 - Speaker: KS Sreeram
+- Code: [Gist](https://gist.github.com/kssreeram/16549d95711a98702ed3)
 
 ##### Object Oriented Programming Paradigms in Python
 
