@@ -30,6 +30,7 @@ any library or parser generator tools.
 
 - Speaker: KS Sreeram
 - Code: [Gist](https://gist.github.com/kssreeram/16549d95711a98702ed3)
+- Video: [Vimeo](https://vimeo.com/133283348)
 
 ##### Object Oriented Programming Paradigms in Python
 
@@ -68,6 +69,7 @@ Zilogic to easily manage over 150 jobs.
 
 - Speaker: Vijay Kumar B
 - Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/managing-jenkins-with-python)
+- Video: [Vimeo](https://vimeo.com/133283349)
 
 ---
 
@@ -97,14 +99,13 @@ kind of nice to know how things work under the hood.
 - Speaker: Vijay Kumar
 - Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/memory-management-in-python)
 
-
-##### Building a face detection tool using OpenCV on Raspberry Pi 
+##### Building a face detection tool using OpenCV on Raspberry Pi
 
 > This talk will include learning about picamera module and opencv.I will be
 using Haar's Cascade classifier as training model for facedetection.And a real
 case scenario of using it.
 
-- Speaker: Gaurav Sehrawat 
+- Speaker: Gaurav Sehrawat
 
 ##### All things *Py*
 
@@ -211,7 +212,7 @@ library
 ##### How Emacs + org-mode replaced a few apps in my workflow
 
 > In this talk, I'll present a short demo about using org-mode in Emacs and how
-> it has replaced the functionality of a few apps in my workflow. 
+> it has replaced the functionality of a few apps in my workflow.
 
 - Speaker: Kiran Gangadharan
 - Video: [Vimeo](https://vimeo.com/125758240)
@@ -226,11 +227,11 @@ library
 - Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/up-and-running-with-pyspark)
 - Video: [Vimeo](https://vimeo.com/125758242)
 
-##### Sentiment Analysis in Simple Steps 
+##### Sentiment Analysis in Simple Steps
 
 > This talk is an exploration of the natural language processing capabilities
 > of python through a simple implementation of Sentiment Analysis using a naive
-> bayes approach. 
+> bayes approach.
 
 - Speaker: Sharmila Gopirajan
 - Slides: [PDF](http://www.minvolai.com/files/sentiment_analysis.pdf)
@@ -240,11 +241,11 @@ library
 
 #### [February 28th 2015](#february-28th-2015)
 
-##### A Lisp powered Python 
+##### A Lisp powered Python
 
-> Lisps? In a Python world? What? When? Where? How? Come find out 
+> Lisps? In a Python world? What? When? Where? How? Come find out
 
-- Speaker: Shrayas 
+- Speaker: Shrayas
 - Slides: [Speakerdeck](https://speakerdeck.com/shrayasr/hylang-a-python-powered-lisp-and-a-lisp-powered-python)
 - Video:  [Vimeo](https://vimeo.com/122759758)
 
@@ -253,7 +254,7 @@ library
 > The talk will be an intro to Big Data, Hadoop and using Python to run mapreduce
 jobs with the option of Hadoop streaming.
 
-- Speaker: Krishna Sangeeth 
+- Speaker: Krishna Sangeeth
 - Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/intro-to-bigdata-hadoop-and-mapreduce)
 - Video:  [Vimeo](https://vimeo.com/122241446)
 
@@ -281,7 +282,7 @@ development.
 
 > A collection of hacks and projects done by Shrikant using Python
 
-- Speaker: Shrikant Giridhar 
+- Speaker: Shrikant Giridhar
 - Video:  [Vimeo](https://vimeo.com/122241449)
 
 ##### Tips and Tricks in IPython
@@ -289,7 +290,7 @@ development.
 > This talk is about enhancing your productivity using IPython. Learning some
 productivity tips on IPython notebook and its plugins.
 
-- Speaker: Gaurav Sehrawat 
+- Speaker: Gaurav Sehrawat
 - IPython notebooks: [For
   development](http://nbviewer.ipython.org/github/igauravsehrawat/chennaipy-meetup/blob/master/ipython-for%20development.ipynb)
   [For
@@ -300,7 +301,7 @@ productivity tips on IPython notebook and its plugins.
 
 > Understanding accelerometer functionality using MicroPython.  MicroPython is a
 lean and fast implementation of the Python 3 programming language that is
-optimized to run on a micro-controller. 
+optimized to run on a micro-controller.
 
 - Speaker: Rengaraj
 - Slides: [Slideshare](http://www.slideshare.net/sakthirengaraj/feb-talk15)
@@ -322,8 +323,8 @@ various effects which are possible with the images along with how to code them.
 
 ##### How Python changed my view of programming
 
-> My journey into programming started with Python. The talk is about how Python 
-made me to dive into programing which I never liked at college. Example programs 
+> My journey into programming started with Python. The talk is about how Python
+made me to dive into programing which I never liked at college. Example programs
 which I have backup of, and my first Python project.
 
 - Speaker: Rengaraj
@@ -366,7 +367,7 @@ Cython and how we have used it to accelerate our computations.
 > As part of Chennaipy activities, we did a Hangman project.  Some cool things
 we did as part of the project - unit testing, supporting Python 2 and 3, code
 coverage analysis, packaging and distribution. This talk will give an overview
-of the lessons from the Python Project. 
+of the lessons from the Python Project.
 
 - Speaker: Vijay Kumar
 - Slides: [Slideshare](http://www.slideshare.net/VijayKumarBagavathSi/hangman-design-and-implementation)
@@ -379,9 +380,9 @@ hardware design accessible for anyone interested. But describing hardware
 accurately in software can be tricky. This is where HDLs come into the picture.
 And as with everything else, there is a Python library for easing into writing
 pure HDL code. This talk introduces development with MyHDL, a Python library to
-generate descriptions of digital hardware. 
+generate descriptions of digital hardware.
 
-- Speaker: Shrikant Giridhar 
+- Speaker: Shrikant Giridhar
 - Slides: [Dropbox](https://www.dropbox.com/s/2qk2oseo9y9f3ms/hdl-talk.pdf?dl=0)
 
 ---
@@ -442,7 +443,7 @@ module to solve challenging problems.
 - Speaker: Krishna Sangeeth
 - Slides: [Slideshare](http://www.slideshare.net/kskrishnasangeeth/solving-graph-problems-using-networkx)
 
-##### Decorators 
+##### Decorators
 
 > Decorators are an interesting way of doing some magic with functions
 in Python. Talk 1 (Python and its Functions) will set the base for
