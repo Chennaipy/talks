@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [July](#july-25th-2015)
   - [June](#june-27th-2015)
   - [May](#may-23rd-2015)
   - [April](#april-25th-2015)
@@ -20,6 +21,49 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+#### [July 25th 2015](#july-25th-2015)
+
+##### Automating things using Selenium
+
+Selenium is a powerful automation tool for web browsers, which is used for
+testing web applications. This talk is all about an overview of selenium and
+how to automate your own web application through selenium.  To know a more
+details about selenium just have a look at
+
+ * [SeleniumHQ](http://www.seleniumhq.org/)
+ * [Selenium with Python](https://selenium-python.readthedocs.org/index.html)
+
+- Speaker: Vengat
+- Slides: [slideshare](http://www.slideshare.net/vengat92/automation-things-using-selenium)
+
+##### Data Science 101
+
+Introduction to probabilistic model particularly Bayesian theory. Solving one
+Kaggle machine learning  problem based on Bayesian  model using tools like
+scylearn, numpy, pandas and ipython.
+
+- Speaker: Gaurav
+
+##### Building Git From Scratch
+
+This talk will incrementally build a prototype of Git in Python. The idea is to
+learn how Git works, by building a miniature version of it. We will see how
+files are tracked by Git, how commits are stored, how branching works, and if
+time permits how merging works.
+
+- Speaker: Vijay Kumar
+- Repository: [GitHub](https://github.com/bravegnu/tiny-git)
+
+##### The beauty that is PostgreSQL - Part 1
+
+This session will highlight a few of the brilliant things that come with the
+latest PostgreSQL Database.
+
+- Speakers: Shrayas & Karthik
+- Slides: [Part 1 - Speakerdeck](https://speakerdeck.com/vkarthik/binary-copy-in-postgres), [Part 2 - Speakerdeck](https://speakerdeck.com/shrayasr/the-beauty-that-is-postgresql)
+
+---
 
 #### [June 27th 2015](#june-27th-2015)
 
