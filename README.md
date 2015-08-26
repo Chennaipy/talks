@@ -34,28 +34,21 @@ I would also like to give an introduction on how to build custom maps using a to
 
 #### Paho Python client for MQTT
 
-
-
 The Paho Python client [1] provides functions for
 communicating with MQTT [2] brokers. This talk will be a quick start guide, and demo on using the same.
 
   * [Python paho clients](https://www.eclipse.org/paho/clients/python/)
-
   * [MQTT Website](http://mqtt.org/)
 
 - Speaker: Shakthi Kannan
 
-
 #### Introduction to Google App Engine
-
 
 This talk will be an overview of how Google App Engine works.
 
 - Speaker: Krithika Vembu
 
 #### Towards probabilistic programming in Python
-
-
 
 Uncertainty is an integral part of the way we perceive the world. It has been known since more than a century that probability theory is the tool for reasoning about uncertainty. In the last two decades, there has been explosion of the use of probabilistic methods in all areas of science, engineering, medicine, and most recently, the analysis of data, "big" or small. In implementing such methods using generic computer languages, the main obstacle has been that computer programs have no semantics of dealing with random variables. This shortcoming leads to unnecessarily tedious code and a large gap between theory and application. The idea of probabilistic programming seeks to remedy this situation by creating programming languages in which random variables are first class citizens. I will describe three python packages that take the first steps in implementing probabilistic programming paradigms and conclude with a survey of the DARPA initiative of probabilistic programming.
 
