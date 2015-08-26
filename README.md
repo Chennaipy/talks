@@ -54,6 +54,8 @@ Uncertainty is an integral part of the way we perceive the world. It has been kn
 
 - Speaker: Prof.Ronojoy Adhikari
 
+---
+
 #### [July 25th 2015](#july-25th-2015)
 
 ##### Automating things using Selenium
