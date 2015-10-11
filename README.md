@@ -10,7 +10,7 @@ The content will be arranged in reverse chronological order
 
 - 2015
   - [August](#august-22th-2015)
-  - [July](#july-22th-2015)
+  - [July](#july-25th-2015)
   - [June](#june-27th-2015)
   - [May](#may-23rd-2015)
   - [April](#april-25th-2015)
