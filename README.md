@@ -36,6 +36,7 @@ The talk will cover the following: Introduction to Django, Installing Django, Cr
 ### Django Rest Framework
 
 The talk will cover the following topics: 
+
 1. Frameworks Available
 
 2. Why Django Rest Framework
