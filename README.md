@@ -37,10 +37,15 @@ The talk will cover the following: Introduction to Django, Installing Django, Cr
 
 The talk will cover the following topics: 
 1. Frameworks Available
+
 2. Why Django Rest Framework
+
 3. Getting started & basics
+
 4. Basic authentication & json web tokens
+
 5. Bulk Operations
+
 6. Simple application which demos the above
 
 
