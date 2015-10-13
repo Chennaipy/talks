@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [September](#september-26th-2015)
   - [August](#august-22th-2015)
   - [July](#july-22th-2015)
   - [June](#june-27th-2015)
@@ -22,6 +23,54 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+### [September-26th-2015](#september-26th-2015)
+
+### Getting started with Django
+
+The talk will cover the following: Introduction to Django, Installing Django, Creating the first project, Structure & Workflow of a Django project and ideas on best practices.
+
+- Speaker: Rajkumar
+- Slides: [slideshare](http://www.slideshare.net/rajkumar2011/getting-started-with-django-18)
+
+### Django Rest Framework
+
+The talk will cover the following topics: 
+
+1. Frameworks Available
+
+2. Why Django Rest Framework
+
+3. Getting started & basics
+
+4. Basic authentication & json web tokens
+
+5. Bulk Operations
+
+6. Simple application which demos the above
+
+
+- Speaker: Jagadish Kumar
+- Slides: [slideshare](http://www.slideshare.net/JagadishKumar21/chpy-0915)
+- Code: [bitbucket](https://bitbucket.org/iceboxx89/drf-demo/overview)
+
+### G-code Visualization Tools
+
+G-codes [1] are a set of instructions given to machine 
+tools to perform actions. We shall explore the usage, and 
+implementation of free and open source Python based G-code visualization tools. For example: yagv [2]. 
+
+  * [G-code](https://en.wikipedia.org/wiki/G-code) 
+  * [yagv](https://github.com/jonathanwin/yagv)
+
+- Speaker: Shakthi Kannan 
+
+### Building a sublime package/plugin using python
+
+Sublime is pretty famous sophisticated editor for code, markup and prose. This talk will help you to build a sublime package and leverage your coding and development skills. Talk will further dive in Sublime editor . One more reason to go with python :) 
+
+- Speaker: Gaurav Sehrawat
+- Slides: [Part 1](http://bit.do/sublime-talk-1), [Part 2](http://bit.do/sublime-talk-2)
 
 #### [August 22th 2015](#august-22th-2015)
 
