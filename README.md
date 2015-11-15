@@ -24,7 +24,7 @@ The content will be arranged in reverse chronological order
 
 ### 2015
 
-#### [September-26th-2015](#september-26th-2015)
+#### [September 26th 2015](#september-26th-2015)
 
 ##### Getting started with Django
 
@@ -52,12 +52,10 @@ The talk will cover the following topics:
 
 ##### G-code Visualization Tools
 
-G-codes [1] are a set of instructions given to machine tools to perform
-actions. We shall explore the usage, and implementation of free and open source
-Python based G-code visualization tools. For example: yagv [2]. 
-
-  * [G-code](https://en.wikipedia.org/wiki/G-code) 
-  * [yagv](https://github.com/jonathanwin/yagv)
+[G-code](https://en.wikipedia.org/wiki/G-code) are a set of instructions given
+to machine tools to perform actions. We shall explore the usage, and
+implementation of free and open source Python based G-code visualization tools.
+For example: [yagv](https://github.com/jonathanwin/yagv)
 
 - Speaker: Shakthi Kannan 
 
@@ -65,7 +63,7 @@ Python based G-code visualization tools. For example: yagv [2].
 
 Sublime is pretty famous sophisticated editor for code, markup and prose. This
 talk will help you to build a sublime package and leverage your coding and
-development skills. Talk will further dive in Sublime editor . One more reason
+development skills. Talk will further dive in Sublime editor. One more reason
 to go with python :) 
 
 - Speaker: Gaurav Sehrawat
@@ -85,11 +83,9 @@ build custom maps using a tool called TileMill.
 
 ##### Paho Python client for MQTT
 
-The Paho Python client [1] provides functions for communicating with MQTT [2]
-brokers. This talk will be a quick start guide, and demo on using the same.
-
-  * [Python paho clients](https://www.eclipse.org/paho/clients/python/)
-  * [MQTT Website](http://mqtt.org/)
+The [Python paho clients](https://www.eclipse.org/paho/clients/python/)
+provides functions for communicating with [MQTT](http://mqtt.org/) brokers.
+This talk will be a quick start guide, and demo on using the same.
 
 - Speaker: Shakthi Kannan
 
