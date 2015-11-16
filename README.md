@@ -24,82 +24,92 @@ The content will be arranged in reverse chronological order
 
 ### 2015
 
-### [September-26th-2015](#september-26th-2015)
+#### [September 26th 2015](#september-26th-2015)
 
-### Getting started with Django
+##### Getting started with Django
 
-The talk will cover the following: Introduction to Django, Installing Django, Creating the first project, Structure & Workflow of a Django project and ideas on best practices.
+The talk will cover the following: Introduction to Django, Installing Django,
+Creating the first project, Structure & Workflow of a Django project and ideas
+on best practices.
 
 - Speaker: Rajkumar
 - Slides: [slideshare](http://www.slideshare.net/rajkumar2011/getting-started-with-django-18)
 
-### Django Rest Framework
+##### Django Rest Framework
 
 The talk will cover the following topics: 
 
 1. Frameworks Available
-
 2. Why Django Rest Framework
-
 3. Getting started & basics
-
 4. Basic authentication & json web tokens
-
 5. Bulk Operations
-
 6. Simple application which demos the above
-
 
 - Speaker: Jagadish Kumar
 - Slides: [slideshare](http://www.slideshare.net/JagadishKumar21/chpy-0915)
 - Code: [bitbucket](https://bitbucket.org/iceboxx89/drf-demo/overview)
 
-### G-code Visualization Tools
+##### G-code Visualization Tools
 
-G-codes [1] are a set of instructions given to machine 
-tools to perform actions. We shall explore the usage, and 
-implementation of free and open source Python based G-code visualization tools. For example: yagv [2]. 
-
-  * [G-code](https://en.wikipedia.org/wiki/G-code) 
-  * [yagv](https://github.com/jonathanwin/yagv)
+[G-code](https://en.wikipedia.org/wiki/G-code) are a set of instructions given
+to machine tools to perform actions. We shall explore the usage, and
+implementation of free and open source Python based G-code visualization tools.
+For example: [yagv](https://github.com/jonathanwin/yagv)
 
 - Speaker: Shakthi Kannan 
 
-### Building a sublime package/plugin using python
+##### Building a sublime package/plugin using python
 
-Sublime is pretty famous sophisticated editor for code, markup and prose. This talk will help you to build a sublime package and leverage your coding and development skills. Talk will further dive in Sublime editor . One more reason to go with python :) 
+Sublime is pretty famous sophisticated editor for code, markup and prose. This
+talk will help you to build a sublime package and leverage your coding and
+development skills. Talk will further dive in Sublime editor. One more reason
+to go with python :) 
 
 - Speaker: Gaurav Sehrawat
 - Slides: [Part 1](http://bit.do/sublime-talk-1), [Part 2](http://bit.do/sublime-talk-2)
 
+---
+
 #### [August 22th 2015](#august-22th-2015)
 
-#### Introduction to GeoJson and GeoDjango
+##### Introduction to GeoJson and GeoDjango
 
-I'll cover how to tag a place and store the co-ordinates in your database and render back them on map.
-I would also like to give an introduction on how to build custom maps using a tool called TileMill.
+I'll cover how to tag a place and store the co-ordinates in your database and
+render back them on map.  I would also like to give an introduction on how to
+build custom maps using a tool called TileMill.
 
 - Speaker: Shrinidhi Kulkarni
 
-#### Paho Python client for MQTT
+##### Paho Python client for MQTT
 
-The Paho Python client [1] provides functions for
-communicating with MQTT [2] brokers. This talk will be a quick start guide, and demo on using the same.
-
-  * [Python paho clients](https://www.eclipse.org/paho/clients/python/)
-  * [MQTT Website](http://mqtt.org/)
+The [Python paho clients](https://www.eclipse.org/paho/clients/python/)
+provides functions for communicating with [MQTT](http://mqtt.org/) brokers.
+This talk will be a quick start guide, and demo on using the same.
 
 - Speaker: Shakthi Kannan
 
-#### Introduction to Google App Engine
+##### Introduction to Google App Engine
 
 This talk will be an overview of how Google App Engine works.
 
 - Speaker: Krithika Vembu
 
-#### Towards probabilistic programming in Python
+##### Towards probabilistic programming in Python
 
-Uncertainty is an integral part of the way we perceive the world. It has been known since more than a century that probability theory is the tool for reasoning about uncertainty. In the last two decades, there has been explosion of the use of probabilistic methods in all areas of science, engineering, medicine, and most recently, the analysis of data, "big" or small. In implementing such methods using generic computer languages, the main obstacle has been that computer programs have no semantics of dealing with random variables. This shortcoming leads to unnecessarily tedious code and a large gap between theory and application. The idea of probabilistic programming seeks to remedy this situation by creating programming languages in which random variables are first class citizens. I will describe three python packages that take the first steps in implementing probabilistic programming paradigms and conclude with a survey of the DARPA initiative of probabilistic programming.
+Uncertainty is an integral part of the way we perceive the world. It has been
+known since more than a century that probability theory is the tool for
+reasoning about uncertainty. In the last two decades, there has been explosion
+of the use of probabilistic methods in all areas of science, engineering,
+medicine, and most recently, the analysis of data, "big" or small. In
+implementing such methods using generic computer languages, the main obstacle
+has been that computer programs have no semantics of dealing with random
+variables. This shortcoming leads to unnecessarily tedious code and a large gap
+between theory and application. The idea of probabilistic programming seeks to
+remedy this situation by creating programming languages in which random
+variables are first class citizens. I will describe three python packages that
+take the first steps in implementing probabilistic programming paradigms and
+conclude with a survey of the DARPA initiative of probabilistic programming.
 
 - Speaker: Prof.Ronojoy Adhikari
 
