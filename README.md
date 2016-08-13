@@ -53,6 +53,7 @@ extension for various modules it addresses a wide variety of retirements.
 
 I am referring to the following 2 links. They have some good material. 
 https://wiki.python.org/moin/PythonSpeed/PerformanceTips 
+
 http://www.scipy-lectures.org/advanced/optimizing 
 
 - Speaker: Ashok Govindarajan
