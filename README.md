@@ -70,7 +70,7 @@ Through this talk I hope to show the casual user, an alternative way
 of representing data, performing calculations on them, and visualizing them. 
 
 - Speaker: Vijay Kumar
-- Slides: [Slideshare](https://www.slideshare.net/secret/2x1HAs3FHWbVlA)
+- Slides: [Slideshare](https://github.com/zilogic-systems/yamlcalc)
 
 ---
 
