@@ -33,7 +33,7 @@ The content will be arranged in reverse chronological order
 
 ##### Environment for Python Dev 
 
-Working with different project with different python versions, 
+Working with different projects with different python versions, 
 debugging module issues, introduction to development environment /
 provisioning. Have a look at: pyenv-virtualenv, pip, modules, site,
 ansible
@@ -42,9 +42,8 @@ ansible
 
 ##### Algorithmic analysis and Time complexity in Python
 
-this talk will be on the following lines:
-- Measuring the execution time of algorithms in Python - simple addition
-program
+This talk will be on the following lines:
+- Measuring the execution time of algorithms in Python - simple addition program
 - Big O Notation
 - Time complexity of Python operations
 
@@ -68,6 +67,8 @@ comes with its own problems. We take a look at the problems created by
 Offset pagination and the possible solutions.
 
 - Speaker: Abhishek Yadav
+
+---
 
 ### 2015
 
