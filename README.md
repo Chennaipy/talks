@@ -9,7 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
-  - [April](#April-26th-2016)
+  - [April](#april-23rd-2016)
   - [March](#march-26th-2016)
   - [February](#february-27th-2016)
   - [January](#january-23rd-2016)
@@ -31,6 +31,57 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [April](#april-23rd-2016)
+
+#####  Trash of the titans
+
+The talk will cover the following topics: 
+
+• GC concepts
+
+• Algorithms
+
+• GC in Ruby
+
+• GC in Python
+
+• GC in Java
+
+• GC in Erlang. 
+
+My hope is that the polyglot audience will engage in a lively 
+discussion, each arguing the merits of their pet languages.
+
+- Speaker: Bhaskar
+
+#####  Machine learning with python
+
+The plan is to provide an introduction to the basic concepts of machine
+learning, tools in python for machine learning and explanation of 
+algorithms for Linear Regression and Classification along with a live demo.
+
+- Speaker: Manish
+
+#####  Web scraping with Scrapple 
+
+An introductory talk on web scraping, and how basic patterns in web 
+scrapers have been generalized in Scrapple (https://github.com/AlexMathew/scrapple). 
+It will be a live demo of some basic web scrapers/crawlers for some 
+sites like xkcd and ESPN, and how these have been abstracted to create
+configurable web content extractors using Scrapple.
+
+- Speaker: Alex Mathew
+
+#####  Ansible mode in Emacs
+
+This talk will introduce Ansible minor mode, ansible-doc and 
+company-ansible back-end in GNU Emacs. I shall also address Literate 
+DevOps in this context.
+
+- Speaker: Sakthi Kannan
+
+---
 
 #### [March 26th 2016](#march-26th-2016)
 
