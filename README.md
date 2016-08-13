@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [April](#April-26th-2016)
   - [March](#march-26th-2016)
   - [February](#february-27th-2016)
   - [January](#january-23rd-2016)
@@ -49,6 +50,7 @@ but effective AI for playing Tic Tac Toe. No prior knowledge about AI
 necessary.
 
 - Speaker: Kiran Gangadharan
+- Slides: [Speakerdeck](https://speakerdeck.com/kirang89/building-a-tic-tac-toe-ai-in-python)
 
 #####  Rethinking Spreadsheets
 
@@ -68,6 +70,7 @@ Through this talk I hope to show the casual user, an alternative way
 of representing data, performing calculations on them, and visualizing them. 
 
 - Speaker: Vijay Kumar
+- Slides: [Slideshare](https://www.slideshare.net/secret/2x1HAs3FHWbVlA)
 
 ---
 
