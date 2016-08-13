@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [June](#june-28th-2016)
   - [May](#may-28th-2016)
   - [April](#april-23rd-2016)
   - [March](#march-26th-2016)
@@ -32,6 +33,34 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [June 28th 2016](#june-28th-2016)
+
+#####  Understanding python iterators and generators
+
+When you start off with Python, its a bit hard to understand how
+generators work. But it is quite important as you do more advanced
+Python programming. I will cover the basics in my 20 minute talk and
+try to make it simpler for people who have not used it before.
+
+- Speaker: Ranjith Pillay
+
+#####  Building a scalable data science platform
+
+Building data science prototypes are easy. The real challenge comes 
+when you need to put them in production. This talk covers the pain 
+points, solutions and tips in building a scalable data science platform in python.
+
+- Speaker: Raghotham & Nischal
+
+#####  Submitting your packages to PyPi
+
+Learn how easy it is to make your python packages "pip installable". 
+A quick and dirty guide on submitting your python packages to the official PyPI servers.
+
+- Speaker: Srinivasan Rangarajan
+
+---
 
 #### [May 28th 2016](#may-28th-2016)
 
