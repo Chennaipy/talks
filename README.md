@@ -110,7 +110,8 @@ using Python tools.
 
 - Speaker: Sakthi Kannan
 
-[Top](#december-26th-2015) ---
+[Top](#december-26th-2015)
+---
 
 #### [September 26th 2015](#september-26th-2015)
 
