@@ -11,6 +11,7 @@ The content will be arranged in reverse chronological order
 - 2016
   - [January](#january-23rd-2016)
   - [February](#february-27th-2016)
+  - [March](#march-26th-2016)
 
 - 2015
   - [December](#december-26th-2015)
@@ -29,6 +30,43 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [March 26th 2016](#march-26th-2016)
+
+#####  Gradual Typing - Introduction, purpose and a small look at `mypy
+
+Python is dynamically typed. Dynamic typing is awesome. Dynamic typing
+is also a pain. C# is statically typed. Static typing is awesome.
+Static typing is also a pain. Is there no middle ground? Lets explore 
+the realm of Gradual typing to know more. 
+
+- Speaker: Shrayas Rajagopal 
+
+#####  Building a Tic Tac Toe AI in Python
+
+In this talk, I'll walk through the code required to build a simple 
+but effective AI for playing Tic Tac Toe. No prior knowledge about AI 
+necessary.
+
+- Speaker: Kiran Gangadharan
+
+#####  Rethinking Spreadsheets
+
+If you are like me and love your text editor, and despise the GUI, I
+would like to propose an alternative to spreadsheets, YAMLCalc.
+YAMLCalc, is  ~100 line Python script that 
+
+• provides a convenient and natural way to represent your data 
+• allows creation of expressions using Python operators and math functions 
+• supports generation of tables and beautiful charts using pygal 
+• integrates seamlessly with asciidoc and markdown documents 
+
+Through this talk I hope to show the casual user, an alternative way 
+of representing data, performing calculations on them, and visualizing them. 
+
+- Speaker: Vijay Kumar
+
+---
 
 #### [February 27th 2016](#february-27th-2016)
 
