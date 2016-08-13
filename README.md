@@ -88,10 +88,14 @@ Have you ever worked with unicode in Python? If you have, you must be
 familiar with the encode and decode methods that you would've used.
 But these functions aren't exactly user friendly. You must have used 
 random encode decode copy-pastes from stack overflow. The error messages 
-are often cryptic. For example, for an encode(str, encoding='utf-8')
+are often cryptic. For example, for an 
+
+~~~~
+encode(str, encoding='utf-8')
 
 UnicodeDecodeError: 'ascii' codec can't decode byte 0xa0 in position 0: 
 ordinal not in range(128).
+~~~~
 
 Knowledge of the inner workings of handling unicode streams is imperative
 for efficient coding with Unicode, as is evident with the decode error 
