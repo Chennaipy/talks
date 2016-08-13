@@ -10,6 +10,7 @@ The content will be arranged in reverse chronological order
 
 - 2016
   - [January](#january-23rd-2016)
+  - [February](#february-27th-2016)
 
 - 2015
   - [December](#december-26th-2015)
@@ -28,6 +29,46 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [February 27th 2016](#february-27th-2016)
+
+##### Python extended window manager hints using Xlib
+
+This talk will cover some basic X Window system, which is currently
+used by most GNU/Linux Distros. XLib is the library used by X11 server 
+to display windows of various X11 client like browser, terminal, etc. 
+Using Python "ewmh" library we can learn X window system in GNU/Linux
+
+- Speaker: Rengaraj
+
+##### Analysis of Algorithms
+
+This talk will cover the following topics:
+- Other ways of computing complexity of algorithms besides Big O
+- Comparison of iterative, recursive and tail-recursive algorithms
+
+- Speaker: Ashok Govindarajan
+
+##### Experimental mathematics with Python and Sage
+
+According to the Russian Mathematician V I Arnold (see http://tinyurl.com/abgbec): 
+"Mathematics is a part of Physics. Physics is an experimental science, 
+a part of natural science. Mathematics is the part of physics where
+experiments are cheap". I will talk about some of my mathematical 
+experiments.
+
+- Speaker: Amritanshu Prasad
+- Slides: [Slides](http://www.imsc.res.in/~amri/experimental_math.pdf) 
+
+##### BitBake, the embedded linux build engine
+
+This talk is about how a Python based build engine is revolutionizing
+the way embedded linux systems are built and maintained. We will cover
+the features of BitBake and also show how to write simple BitBake recipes.
+
+- Speaker: Vijay Kumar
+
+----
 
 #### [January 23rd 2016](#january-23rd-2016)
 
