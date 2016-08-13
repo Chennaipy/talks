@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [December](#december-26th-2015)
   - [October](#october-24th-2015)
   - [September](#september-26th-2015)
   - [August](#august-22th-2015)
@@ -24,6 +25,49 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+#### [December 26th 2015](#december-26th-2015)
+
+##### Developing Odoo Modules
+
+A quick demonstration on setting up and running Odoo 9 and customizing
+a Module to suit one's requirement. Customization involves: Extending
+a Class, its view and some of its methods.
+
+- Speaker: Sri Ramadas
+
+##### Python byte code hacking
+
+This talk covers the following topics - Byte code execution, stack
+machines, code objects and creating custom code objects
+
+- Speaker: Vijay Kumar B
+- Slides: [IPython Notebook](https://github.com/bravegnu/python-byte-code/blob/master/Python%20Byte%20Code%20Hacking.ipynb)
+
+##### Python for Micro Controllers
+
+MicroPython is a lean and fast implementation of the Python 3 optimised
+to run on a microcontroller. This talk gives a brief overview on - the
+features of MicroPython, How it can run on NuttX, a real time OS and
+layering in NuttX that provides support to run MicroPython
+
+- Speaker: Babu Subash Chandar
+
+##### Introduction to MIMO Systems
+
+Basically, MIMO is about Multi-antenna communication systems. This topic
+would be discussed under the context of base stations (4G, WiMAX, HSPA+),
+where multiple antennae are being deployed. The primary focus would be to :
+
+• Define SISO (Single input single output systems)
+• Provide a simple analogy to faciliate the understanding of SISO
+• Motivate the idea of MISO (Multiple input single output) and MIMO
+• Present some comparison results between SISO and MIMO.
+
+- Speaker: Ashok Govindarajan
+- Slides: [Slideshare](http://www.slideshare.net/AshokGovindarajan/introduction-to-mimo-56406485)
+
+---
 
 #### [October 24th 2015](#october-24th-2015)
 
