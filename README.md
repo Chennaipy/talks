@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [May](#may-28th-2016)
   - [April](#april-23rd-2016)
   - [March](#march-26th-2016)
   - [February](#february-27th-2016)
@@ -31,6 +32,40 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [May 28th 2016](#may-28th-2016)
+
+#####  Introduction to Celery
+
+Cases when number of tasks are submitted to task queue which needs to 
+be processed asynchronously Celery saves the day. Celery distributes 
+and coordinates the tasks over multiple workers (may be running on 
+different machine). It also scales well with addition/removal of 
+workers on the fly to handle those occasional burst work load between 
+long periods of calm.
+
+With the flexibility to support multiple message brokers and custom 
+extension for various modules it addresses a wide variety of retirements.
+
+- Speaker: Shanmuga
+
+#####  Code optimization in python
+
+I am referring to the following 2 links. They have some good material. 
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips 
+http://www.scipy-lectures.org/advanced/optimizing 
+
+- Speaker: Ashok Govindarajan
+
+#####  Deep learning with TensorFlow
+
+The talk will cover the basics of neural networks, an introduction to 
+tensorflow and its features along with the advantages of Tensorflow 
+over other libraries like Theano. 
+
+- Speaker: Manish
+
+---
 
 #### [April 23rd 2016](#april-23rd-2016)
 
