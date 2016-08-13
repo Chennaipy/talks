@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2015
+  - [October](#october-24th-2015)
   - [September](#september-26th-2015)
   - [August](#august-22th-2015)
   - [July](#july-25th-2015)
@@ -23,6 +24,49 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2015
+
+#### [October 24th 2015](#october-24th-2015)
+
+##### Postgresql Explain
+
+Postgres Explain is an interesting starting point to understand how the
+Postgresql database approaches queries. It gives us insights into its
+various algorithms, use of indexing and general trade-offs. This talk
+covers various examples and some quick lessons.
+
+- Speaker: Abhishek
+- Slides: [slides](http://slides.com/zerothabhishek/postgresql-explain)
+
+##### Introduction to pgcli and mycli
+
+Pgcli is a modern command line interface for Postgresql database that
+can do auto-completion of sql statements and syntax highlighting. This
+talk will be a walkthrough of the tool and introduce the various
+libraries that made this tool possible. Mycli is the mysql equivalent
+ of pgcli. Both the tools are open source and they are written in Python.
+
+- Speaker: Amjith Ramanujan
+- Slides: [slides](https://speakerdeck.com/amjith/modern-command-line)
+
+##### Image processing using OpenCV
+
+In this talk, I will be presenting my project on image processing using
+OpenCV for clinical GAIT Analysis. OpenCV is popular computer vision
+library for image and video processing in real-time.
+
+- Speaker: Haripriya Baskar
+
+##### Pretty printing in python
+
+This talk shares the experience of creating a part from an art using
+Printrun and Skeinforge with the Prusia i3 3D printer. MTConnect
+standard is used to obtain data from the 3D printer. I shall also
+address the challenges in validating the printed object ("Part to Art")
+using Python tools.
+
+- Speaker: Sakthi Kannan
+
+---
 
 #### [September 26th 2015](#september-26th-2015)
 
