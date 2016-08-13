@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [July](#july-23rd-2016)
   - [June](#june-28th-2016)
   - [May](#may-28th-2016)
   - [April](#april-23rd-2016)
@@ -33,6 +34,70 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [July 23rd 2016](#july-23rd-2016)
+
+#####  Python gotchas
+
+Python aims to be a clean and consistent language that avoids surprises.
+However, there are few edge cases that can be confusing to newcomers or
+sometimes even the experienced ones. If you are not aware of these gotchas,
+you might conclude that the language is poorly designed when you come 
+across it in production. Some cases are intentional but can be surprising, for example
+
+>>> hash(2) => 2 
+>>> hash(-2) => -2 
+>>> hash(-1) => -2 #really?
+
+It might seem strange at first glance, but it makes more sense once you
+are aware of the underlying reasons for the surprises. This will be an 
+interactive talk where I will be talking about these gotchas with few 
+examples and the audience will be able to guess what/why python behaves 
+the way it does.
+
+- Speaker: Naren
+
+#####  Think your pLearn how to measure and improve the performance
+
+Many of us blame python for being slow. Ever though it's not python's
+fault all of those times. May be it's our code that is at fault. It is
+useless trying to blindly optimize a program without measuring where 
+it is actually spending its time. There are many things that can be
+measured on our code. This talk will focus on profiling different parts 
+of your program like line by line analysis, memory used by each objects,
+memory leaks, objects that causes these memory leaks, etc. The profiling
+and analysis will be done using python standard libraries (cProfile
+and profile) and also using some open source libraries (line_profiler 
+and memory_profiler)
+
+- Speaker: Ambarish KC
+
+#####  Setting up Emacs for Python development
+
+In this talk, I'll showcase how Emacs can be setup as a productive 
+environment for Python development. Specifically, I'll introduce
+various packages that can be very helpful when working with Python
+
+- Speaker: Kiran
+
+#####  Efficient unicode integration in Python
+
+Have you ever worked with unicode in Python? If you have, you must be
+familiar with the encode and decode methods that you would've used.
+But these functions aren't exactly user friendly. You must have used 
+random encode decode copy-pastes from stack overflow. The error messages 
+are often cryptic. For example, for an encode(str, encoding='utf-8')
+
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xa0 in position 0: 
+ordinal not in range(128).
+
+Knowledge of the inner workings of handling unicode streams is imperative
+for efficient coding with Unicode, as is evident with the decode error 
+for the encode method.
+
+- Speaker: Hans Krupakar
+
+---
 
 #### [June 28th 2016](#june-28th-2016)
 
