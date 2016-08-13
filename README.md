@@ -45,9 +45,11 @@ sometimes even the experienced ones. If you are not aware of these gotchas,
 you might conclude that the language is poorly designed when you come 
 across it in production. Some cases are intentional but can be surprising, for example
 
->>> hash(2) => 2 
->>> hash(-2) => -2 
->>> hash(-1) => -2 #really?
+~~~~
+hash(2) => 2 
+hash(-2) => -2 
+hash(-1) => -2 #really?
+~~~~
 
 It might seem strange at first glance, but it makes more sense once you
 are aware of the underlying reasons for the surprises. This will be an 
@@ -57,7 +59,7 @@ the way it does.
 
 - Speaker: Naren
 
-#####  Think your pLearn how to measure and improve the performance
+#####  Think your python code is slow?
 
 Many of us blame python for being slow. Ever though it's not python's
 fault all of those times. May be it's our code that is at fault. It is
