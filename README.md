@@ -32,7 +32,7 @@ The content will be arranged in reverse chronological order
 
 ### 2016
 
-#### [April](#april-23rd-2016)
+#### [April 23rd 2016](#april-23rd-2016)
 
 #####  Trash of the titans
 
