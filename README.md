@@ -8,7 +8,18 @@ The content will be arranged in reverse chronological order
 
 ## Table of contents
 
+- 2016
+  - [July](#july-23rd-2016)
+  - [June](#june-28th-2016)
+  - [May](#may-28th-2016)
+  - [April](#april-23rd-2016)
+  - [March](#march-26th-2016)
+  - [February](#february-27th-2016)
+  - [January](#january-23rd-2016)
+
 - 2015
+  - [December](#december-26th-2015)
+  - [October](#october-24th-2015)
   - [September](#september-26th-2015)
   - [August](#august-22th-2015)
   - [July](#july-25th-2015)
@@ -22,7 +33,402 @@ The content will be arranged in reverse chronological order
   - [December](#december-20th-2014)
   - [November](#november-29th-2014)
 
+### 2016
+
+#### [July 23rd 2016](#july-23rd-2016)
+
+#####  Python gotchas
+
+Python aims to be a clean and consistent language that avoids surprises.
+However, there are few edge cases that can be confusing to newcomers or
+sometimes even the experienced ones. If you are not aware of these gotchas,
+you might conclude that the language is poorly designed when you come 
+across it in production. Some cases are intentional but can be surprising, for example
+
+~~~~
+hash(2) => 2 
+hash(-2) => -2 
+hash(-1) => -2 #really?
+~~~~
+
+It might seem strange at first glance, but it makes more sense once you
+are aware of the underlying reasons for the surprises. This will be an 
+interactive talk where I will be talking about these gotchas with few 
+examples and the audience will be able to guess what/why python behaves 
+the way it does.
+
+- Speaker: Naren
+
+#####  Think your python code is slow?
+
+Many of us blame python for being slow. Ever though it's not python's
+fault all of those times. May be it's our code that is at fault. It is
+useless trying to blindly optimize a program without measuring where 
+it is actually spending its time. There are many things that can be
+measured on our code. This talk will focus on profiling different parts 
+of your program like line by line analysis, memory used by each objects,
+memory leaks, objects that causes these memory leaks, etc. The profiling
+and analysis will be done using python standard libraries (cProfile
+and profile) and also using some open source libraries (line_profiler 
+and memory_profiler)
+
+- Speaker: Ambarish KC
+
+#####  Setting up Emacs for Python development
+
+In this talk, I'll showcase how Emacs can be setup as a productive 
+environment for Python development. Specifically, I'll introduce
+various packages that can be very helpful when working with Python
+
+- Speaker: Kiran
+
+#####  Efficient unicode integration in Python
+
+Have you ever worked with unicode in Python? If you have, you must be
+familiar with the encode and decode methods that you would've used.
+But these functions aren't exactly user friendly. You must have used 
+random encode decode copy-pastes from stack overflow. The error messages 
+are often cryptic. For example, for an 
+
+~~~~
+encode(str, encoding='utf-8')
+
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xa0 in position 0: 
+ordinal not in range(128).
+~~~~
+
+Knowledge of the inner workings of handling unicode streams is imperative
+for efficient coding with Unicode, as is evident with the decode error 
+for the encode method.
+
+- Speaker: Hans Krupakar
+
+---
+
+#### [June 28th 2016](#june-28th-2016)
+
+#####  Understanding python iterators and generators
+
+When you start off with Python, its a bit hard to understand how
+generators work. But it is quite important as you do more advanced
+Python programming. I will cover the basics in my 20 minute talk and
+try to make it simpler for people who have not used it before.
+
+- Speaker: Ranjith Pillay
+
+#####  Building a scalable data science platform
+
+Building data science prototypes are easy. The real challenge comes 
+when you need to put them in production. This talk covers the pain 
+points, solutions and tips in building a scalable data science platform in python.
+
+- Speaker: Raghotham & Nischal
+
+#####  Submitting your packages to PyPi
+
+Learn how easy it is to make your python packages "pip installable". 
+A quick and dirty guide on submitting your python packages to the official PyPI servers.
+
+- Speaker: Srinivasan Rangarajan
+
+---
+
+#### [May 28th 2016](#may-28th-2016)
+
+#####  Introduction to Celery
+
+Cases when number of tasks are submitted to task queue which needs to 
+be processed asynchronously Celery saves the day. Celery distributes 
+and coordinates the tasks over multiple workers (may be running on 
+different machine). It also scales well with addition/removal of 
+workers on the fly to handle those occasional burst work load between 
+long periods of calm.
+
+With the flexibility to support multiple message brokers and custom 
+extension for various modules it addresses a wide variety of retirements.
+
+- Speaker: Shanmuga
+
+#####  Code optimization in python
+
+I am referring to the following 2 links. They have some good material. 
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips 
+
+http://www.scipy-lectures.org/advanced/optimizing 
+
+- Speaker: Ashok Govindarajan
+
+#####  Deep learning with TensorFlow
+
+The talk will cover the basics of neural networks, an introduction to 
+tensorflow and its features along with the advantages of Tensorflow 
+over other libraries like Theano. 
+
+- Speaker: Manish
+
+---
+
+#### [April 23rd 2016](#april-23rd-2016)
+
+#####  Trash of the titans
+
+The talk will cover the following topics: 
+
+• GC concepts
+
+• Algorithms
+
+• GC in Ruby
+
+• GC in Python
+
+• GC in Java
+
+• GC in Erlang. 
+
+My hope is that the polyglot audience will engage in a lively 
+discussion, each arguing the merits of their pet languages.
+
+- Speaker: Bhaskar
+
+#####  Machine learning with python
+
+The plan is to provide an introduction to the basic concepts of machine
+learning, tools in python for machine learning and explanation of 
+algorithms for Linear Regression and Classification along with a live demo.
+
+- Speaker: Manish
+
+#####  Web scraping with Scrapple 
+
+An introductory talk on web scraping, and how basic patterns in web 
+scrapers have been generalized in Scrapple (https://github.com/AlexMathew/scrapple). 
+It will be a live demo of some basic web scrapers/crawlers for some 
+sites like xkcd and ESPN, and how these have been abstracted to create
+configurable web content extractors using Scrapple.
+
+- Speaker: Alex Mathew
+
+#####  Ansible mode in Emacs
+
+This talk will introduce Ansible minor mode, ansible-doc and 
+company-ansible back-end in GNU Emacs. I shall also address Literate 
+DevOps in this context.
+
+- Speaker: Sakthi Kannan
+
+---
+
+#### [March 26th 2016](#march-26th-2016)
+
+#####  Gradual Typing - Introduction, purpose and a small look at `mypy
+
+Python is dynamically typed. Dynamic typing is awesome. Dynamic typing
+is also a pain. C# is statically typed. Static typing is awesome.
+Static typing is also a pain. Is there no middle ground? Lets explore 
+the realm of Gradual typing to know more. 
+
+- Speaker: Shrayas Rajagopal 
+
+#####  Building a Tic Tac Toe AI in Python
+
+In this talk, I'll walk through the code required to build a simple 
+but effective AI for playing Tic Tac Toe. No prior knowledge about AI 
+necessary.
+
+- Speaker: Kiran Gangadharan
+- Slides: [Speakerdeck](https://speakerdeck.com/kirang89/building-a-tic-tac-toe-ai-in-python)
+
+#####  Rethinking Spreadsheets
+
+If you are like me and love your text editor, and despise the GUI, I
+would like to propose an alternative to spreadsheets, YAMLCalc.
+YAMLCalc, is  ~100 line Python script that 
+
+• provides a convenient and natural way to represent your data 
+
+• allows creation of expressions using Python operators and math functions 
+
+• supports generation of tables and beautiful charts using pygal 
+
+• integrates seamlessly with asciidoc and markdown documents 
+
+Through this talk I hope to show the casual user, an alternative way 
+of representing data, performing calculations on them, and visualizing them. 
+
+- Speaker: Vijay Kumar
+- Slides: [Slideshare](https://github.com/zilogic-systems/yamlcalc)
+
+---
+
+#### [February 27th 2016](#february-27th-2016)
+
+##### Python extended window manager hints using Xlib
+
+This talk will cover some basic X Window system, which is currently
+used by most GNU/Linux Distros. XLib is the library used by X11 server 
+to display windows of various X11 client like browser, terminal, etc. 
+Using Python "ewmh" library we can learn X window system in GNU/Linux
+
+- Speaker: Rengaraj
+
+##### Analysis of Algorithms
+
+This talk will cover the following topics:
+- Other ways of computing complexity of algorithms besides Big O
+- Comparison of iterative, recursive and tail-recursive algorithms
+
+- Speaker: Ashok Govindarajan
+
+##### Experimental mathematics with Python and Sage
+
+According to the Russian Mathematician V I Arnold (see http://tinyurl.com/abgbec): 
+"Mathematics is a part of Physics. Physics is an experimental science, 
+a part of natural science. Mathematics is the part of physics where
+experiments are cheap". I will talk about some of my mathematical 
+experiments.
+
+- Speaker: Amritanshu Prasad
+- Slides: [Slides](http://www.imsc.res.in/~amri/experimental_math.pdf) 
+
+##### BitBake, the embedded linux build engine
+
+This talk is about how a Python based build engine is revolutionizing
+the way embedded linux systems are built and maintained. We will cover
+the features of BitBake and also show how to write simple BitBake recipes.
+
+- Speaker: Vijay Kumar
+
+----
+
+#### [January 23rd 2016](#january-23rd-2016)
+
+##### Environment for Python Dev 
+
+Working with different projects with different python versions, 
+debugging module issues, introduction to development environment /
+provisioning. Have a look at: pyenv-virtualenv, pip, modules, site,
+ansible
+
+- Speaker: Dinesh Kumar
+
+##### Algorithmic analysis and Time complexity in Python
+
+This talk will be on the following lines:
+- Measuring the execution time of algorithms in Python - simple addition program
+- Big O Notation
+- Time complexity of Python operations
+
+- Speaker: Ashok Govindarajan
+- Slides: [Slideshare](https://www.slideshare.net/secret/qA2HuxRkemDYgg) 
+
+#####  Debugging the easy way with python debugger
+
+An easy replacement of "print" statement in python debugger. It is a 
+command line utility. Getting more insight in complex code is piece of 
+cake with PDB, since you interact directly with code in running state.
+It is an essential zen tool for every python developer.
+
+- Speaker: Gaurav Sehrawat
+
+#####  Offset pagination in databases
+
+Offset pagination is a popular technique to get split sets of data from
+a database. While made convinient with the OFFSET clause in SQL, it 
+comes with its own problems. We take a look at the problems created by 
+Offset pagination and the possible solutions.
+
+- Speaker: Abhishek Yadav
+
+---
+
 ### 2015
+
+#### [December 26th 2015](#december-26th-2015)
+
+##### Developing Odoo Modules
+
+A quick demonstration on setting up and running Odoo 9 and customizing
+a Module to suit one's requirement. Customization involves: Extending
+a Class, its view and some of its methods.
+
+- Speaker: Sri Ramadas
+
+##### Python byte code hacking
+
+This talk covers the following topics - Byte code execution, stack
+machines, code objects and creating custom code objects
+
+- Speaker: Vijay Kumar B
+- Slides: [IPython Notebook](https://github.com/bravegnu/python-byte-code/blob/master/Python%20Byte%20Code%20Hacking.ipynb)
+
+##### Python for Micro Controllers
+
+MicroPython is a lean and fast implementation of the Python 3 optimised
+to run on a microcontroller. This talk gives a brief overview on - the
+features of MicroPython, How it can run on NuttX, a real time OS and
+layering in NuttX that provides support to run MicroPython
+
+- Speaker: Babu Subash Chandar
+
+##### Introduction to MIMO Systems
+
+Basically, MIMO is about Multi-antenna communication systems. This topic
+would be discussed under the context of base stations (4G, WiMAX, HSPA+),
+where multiple antennae are being deployed. The primary focus would be to :
+
+• Define SISO (Single input single output systems)
+• Provide a simple analogy to faciliate the understanding of SISO
+• Motivate the idea of MISO (Multiple input single output) and MIMO
+• Present some comparison results between SISO and MIMO.
+
+- Speaker: Ashok Govindarajan
+- Slides: [Slideshare](http://www.slideshare.net/AshokGovindarajan/introduction-to-mimo-56406485)
+
+---
+
+#### [October 24th 2015](#october-24th-2015)
+
+##### Postgresql Explain
+
+Postgres Explain is an interesting starting point to understand how the
+Postgresql database approaches queries. It gives us insights into its
+various algorithms, use of indexing and general trade-offs. This talk
+covers various examples and some quick lessons.
+
+- Speaker: Abhishek
+- Slides: [slides](http://slides.com/zerothabhishek/postgresql-explain)
+
+##### Introduction to pgcli and mycli
+
+Pgcli is a modern command line interface for Postgresql database that
+can do auto-completion of sql statements and syntax highlighting. This
+talk will be a walkthrough of the tool and introduce the various
+libraries that made this tool possible. Mycli is the mysql equivalent
+ of pgcli. Both the tools are open source and they are written in Python.
+
+- Speaker: Amjith Ramanujan
+- Slides: [slides](https://speakerdeck.com/amjith/modern-command-line)
+
+##### Image processing using OpenCV
+
+In this talk, I will be presenting my project on image processing using
+OpenCV for clinical GAIT Analysis. OpenCV is popular computer vision
+library for image and video processing in real-time.
+
+- Speaker: Haripriya Baskar
+
+##### Pretty printing in python
+
+This talk shares the experience of creating a part from an art using
+Printrun and Skeinforge with the Prusia i3 3D printer. MTConnect
+standard is used to obtain data from the 3D printer. I shall also
+address the challenges in validating the printed object ("Part to Art")
+using Python tools.
+
+- Speaker: Sakthi Kannan
+
+---
 
 #### [September 26th 2015](#september-26th-2015)
 
