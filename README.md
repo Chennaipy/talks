@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [August](#august-27th-2016)
   - [July](#july-23rd-2016)
   - [June](#june-28th-2016)
   - [May](#may-28th-2016)
@@ -34,6 +35,48 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [August 27th 2016](#august-27th-2016)
+
+#####  An introduction to Flask
+
+Flask is a micro web framework which is easy to setup and learn. This talk aims to cover the 
+basics of Flask with a simple app. The topics to be covered are
+
+• Flask boiler plate code and what each line does
+
+• Flask routes and how to pass inputs as parameters in URL
+
+• How to render an HTML template
+
+• Extending Flask with Plugins
+
+• Flask when compared with Django
+
+- Speaker: Hafizul Azeez
+
+#####  Computer vision with deep learning
+
+This session will focus on how deep learning is used in image processing applications like face 
+recognition, handwriting recognition and others using tensorflow.
+
+- Speaker: Manish Shivanandhan
+- Slides: [GoogleDocs](https://docs.google.com/presentation/d/1ss8zH3NmTl5EWLaCzOjhSZt8bm7-z-JK8_OnkDo4Yjo/edit#slide=id.p)
+
+#####  Behaviour Driven Development
+
+Developers are familiar with the Test Driven Development(TDD) where the requirements are turned into very specific test cases 
+and the code blocks are tested thoroughly by writing unit tests. But these test cases do not show the developers how the product
+should behave to the end user, instead it focuses on the specifics of the each code block. This is the reason why many product 
+managers wonder, why the developers can't get the product right in minimal iterations. By following BDD with TDD, the developer 
+can know "how to test the product?" instead of just testing the implementation of the code.
+
+At the end of this talk, the audience will get an introduction to BDD and they will know where to use BDD for better development
+of products.
+
+- Speaker: Naren Ravi
+
+---
 
 #### [July 23rd 2016](#july-23rd-2016)
 
