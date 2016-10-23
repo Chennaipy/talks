@@ -9,6 +9,8 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [October](#october-22nd-2016)
+  - [September](#september-24th-2016)
   - [August](#august-27th-2016)
   - [July](#july-23rd-2016)
   - [June](#june-28th-2016)
@@ -35,6 +37,66 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [October 22nd 2016](#october-22nd-2016)
+
+##### Diving deep into dictionary
+
+Every pythonista knows how to use a dictionary. They claim its the fastest data structure in python and tell, one should 
+not expect ordered elements from it (Atleast in python 2.x). But I am not sure how many of them are aware what happens 
+when a dictionary is initialized?, why its not ordered?, why is it so fast?, how it alters itself when it grows?. I 
+will talk about all of these and after the talk the audience will know whats really happening behind a dictionary.
+
+- Speaker: Naren
+
+##### Demystifying how imports work in Python
+
+It just so happens python abstracts away the inner workings of import statement beautifully. But are we aware of how python
+behaves when it encounters an import statement for a module? Better yet what is a module actually? Packages anybody?
+How would different import styles compare with each other. Any Best practices when importing modules. What about 
+that `__init__.py` you saw the last time you read someone else's code.
+
+- Speaker: [Tasdik Rahman](https://twitter.com/tasdikrahman/)
+- Slides: [speakerdeck](https://speakerdeck.com/tasdikrahman/demystifying-how-imports-work-in-python/)
+- Code used during talk: [github](https://github.com/prodicus/talks/tree/master/chennaipy/october)
+
+##### Introduction to selenium in Python 
+
+I'll be explaining them about, what selenium is? How it helps with browser automations. How we can use it for testing?
+Selenium ide and webdriver. Also I'll be showing demo and how to code.
+
+- Speaker: Mayur Shah
+
+#### [September 24th 2016](#september-24th-2016)
+
+##### Flask Web Sockets and Real-time Chat Metrics using d3
+
+In this talk, I would be covering how to build a simple chat app using flask socket io, client and server generated 
+events, simple chat metrics and how to visualize the metrics in real time using D3 js.
+
+- Code and slides @ [https://github.com/hazeez/Flask-SocketIO-D3](https://github.com/hazeez/Flask-SocketIO-D3)
+- Speaker: Hafizul Azeez 
+
+##### Sentiment analysis with Python
+
+The talk will deal with basic concepts of sentiment analysis, applications of sentiment analysis and writing a 
+sentiment analyzer with python.
+
+- Speaker: Manish
+
+##### Measuring Cyclomatic complexity in Python
+
+A brief intro to cyclomatic complexity. This is a topic related to Python code quality. Cyclomatic Complexity is basically
+the measure of how complicated a unit of code is - it counts all the independent paths through a unit of code to produce 
+a unique score. Obviously a function that has a very high cyclomatic complexity score (say 100) needs to be refactored.
+
+Some basic reference material that would be useful to attend this talk:
+
+1) [What is cyclomatic complexity](http://www.tutorialspoint.com/software_testing_dictionary/cyclomatic_complexity.htm)
+
+2) [Example for cyclomatic complexity](http://blog.codeclimate.com/blog/2013/12/12/the-roots-of-static-analysis/)
+
+- Speaker: Ashok 
 
 #### [August 27th 2016](#august-27th-2016)
 
