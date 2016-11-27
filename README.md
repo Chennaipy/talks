@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2016
+  - [November](#november-26th-2016)
   - [October](#october-22nd-2016)
   - [September](#september-24th-2016)
   - [August](#august-27th-2016)
@@ -37,6 +38,33 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2016
+
+#### [November 26th 2016](#november-26th-2016)
+
+##### Git From Scratch
+
+In this talk, we will discuss about Git's content model and branching model.
+And we will do it by building a Git like version control system from scratch.
+This talk is based on my previous talk at Chennaipy (July 2015). This time we
+will use pseudocode, instead of a real Python program
+
+- Speaker: Vijay
+- Article: [Linkedin](https://www.linkedin.com/pulse/building-git-from-scratch-vijay-kumar-bagavath-singh)
+
+##### Introduction to Asyncio
+
+I'll start with an overview on why we need python Asyncio along with examples
+and explore the new keywords that are added to the python3 stdlib. 
+
+- Speaker: Yogesh Dujodwala
+- Repo: [python_websocket_demo](https://github.com/neoyogi/python_websocket_demo)
+
+##### Introduction to OpenCV
+
+I will start with the Computer Vision Basics and Image Descriptors such
+Histogram of Oriented Gradients, Local Binary Pattern using OpenCV with python. 
+
+- Speaker: Mohanraj
 
 #### [October 22nd 2016](#october-22nd-2016)
 
