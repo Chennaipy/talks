@@ -66,6 +66,8 @@ Histogram of Oriented Gradients, Local Binary Pattern using OpenCV with python.
 
 - Speaker: Mohanraj
 
+---
+
 #### [October 22nd 2016](#october-22nd-2016)
 
 ##### Diving deep into dictionary
@@ -94,6 +96,8 @@ I'll be explaining them about, what selenium is? How it helps with browser autom
 Selenium ide and webdriver. Also I'll be showing demo and how to code.
 
 - Speaker: Mayur Shah
+
+---
 
 #### [September 24th 2016](#september-24th-2016)
 
@@ -125,6 +129,8 @@ Some basic reference material that would be useful to attend this talk:
 2) [Example for cyclomatic complexity](http://blog.codeclimate.com/blog/2013/12/12/the-roots-of-static-analysis/)
 
 - Speaker: Ashok 
+
+---
 
 #### [August 27th 2016](#august-27th-2016)
 
