@@ -354,7 +354,7 @@ This talk will introduce Ansible minor mode, ansible-doc and
 company-ansible back-end in GNU Emacs. I shall also address Literate 
 DevOps in this context.
 
-- Speaker: Sakthi Kannan
+- Speaker: Shakthi Kannan
 
 ---
 
@@ -565,7 +565,7 @@ standard is used to obtain data from the 3D printer. I shall also
 address the challenges in validating the printed object ("Part to Art")
 using Python tools.
 
-- Speaker: Sakthi Kannan
+- Speaker: Shakthi Kannan
 
 ---
 
