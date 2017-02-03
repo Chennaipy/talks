@@ -8,7 +8,11 @@ The content will be arranged in reverse chronological order
 
 ## Table of contents
 
+- 2017
+  - [January](#january-28th-2017)
+
 - 2016
+  - [December](#december-24th-2016)
   - [November](#november-26th-2016)
   - [October](#october-22nd-2016)
   - [September](#september-24th-2016)
@@ -33,11 +37,68 @@ The content will be arranged in reverse chronological order
   - [March](#march-29th-2015)
   - [February](#february-28th-2015)
   - [January](#january-31st-2015)
+
 - 2014
   - [December](#december-20th-2014)
   - [November](#november-29th-2014)
 
+### 2017
+
+#### [January 28th 2017](#january-28th-2017)
+
+##### PyShark in Network Packet Analysis
+
+Pyshark is a wrapper around tshark comand line utility to capture a live Network
+packet or from a capture file. Pyshark is useful in parsing capture data for
+analysis.
+
+- Speaker: Rengaraj
+
+##### Write better code
+
+Rundown on idiomatic python, pep8 and general good practices. 
+
+- Speaker: Anna Philips
+- Slides: [speakerdeck](https://speakerdeck.com/algogator/chennaipy-jan-2017)
+
+##### A Web Testing Framework in Python 
+
+I would like to talk about the web testing framework I worked on during my
+internship at Logic Soft.
+The following will be discussed:
+  * Using Lisp to write test cases by creating a wrapper around Selenium
+  * Internal workings and reasoning of a few decisions 
+
+- Speaker: Abhirath
+
 ### 2016
+
+#### [December 24th 2016](#december-24th-2016)
+
+##### Data structures in Python
+
+In this talk, we will discuss the concept of data structures and some of the
+common properties. We will also look at a few sample programs in Python, which
+we will run during the session and analyse. The motivation of this talk would be
+to help us understand the need for data structures and what is responsible for
+the fast web-searchprovided by the google search engine.
+
+- Speaker: Ashok Govindarajan
+- Slides: [slideshare](http://www.slideshare.net/AshokGovindarajan/data-structures-in-python)
+
+##### Obscure Python Implementations
+
+When people talk about using Python, they are usually referring to the most
+common *implementation* of Python - CPython. Some talk about using PyPy or
+Jython or IronPython. In this talk, I'd like to present some of the more obscure
+Python implementations, the ones that only very few might have heard about and
+also talk about their features and the reasons for which you might want to use
+them. Since I want to talk about the very obscure ones, I might talk about
+defunct implementations also. So for those cases it might not make sense to talk
+about good reasons to use them (beyond just playing around with them for fun).
+
+- Speaker: Subil
+- Repo: [obscure python implementations](https://github.com/dragsubil/talks/tree/master/2016-12-24%20obscure%20python%20implementations)
 
 #### [November 26th 2016](#november-26th-2016)
 
