@@ -100,6 +100,8 @@ about good reasons to use them (beyond just playing around with them for fun).
 - Speaker: Subil
 - Repo: [obscure python implementations](https://github.com/dragsubil/talks/tree/master/2016-12-24%20obscure%20python%20implementations)
 
+---
+
 #### [November 26th 2016](#november-26th-2016)
 
 ##### Git From Scratch
