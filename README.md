@@ -53,6 +53,7 @@ packet or from a capture file. Pyshark is useful in parsing capture data for
 analysis.
 
 - Speaker: Rengaraj
+- Slides: [slideshare](https://www.slideshare.net/sakthirengaraj/pyshark-in-network-packet-analysis)
 
 ##### Write better code
 
