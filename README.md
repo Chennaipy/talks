@@ -67,7 +67,7 @@ a framework for working with Statecharts, and how to use it to build
 applications.
 
 - Speaker: Vijay Kumar
-
+- Slides and code: [Dropbox](https://www.dropbox.com/sh/zkujtgo1h68i3nm/AABLRrzG-BPu8TrblVu17rRXa?dl=0)
 ---
 
 #### [March 25th 2017](#march-25th-2017)
