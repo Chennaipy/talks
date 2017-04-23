@@ -9,6 +9,9 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2017
+  - [April](#april-23th-2017)
+  - [March](#march-25th-2017)
+  - [February](#february-25th-2017)
   - [January](#january-28th-2017)
 
 - 2016
@@ -43,6 +46,89 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2017
+
+#### [April 23th 2017](#april-23th-2017)
+
+##### Module development for wireless systems using Python
+
+This will be hands-on in nature where I will introduce the audience to the
+wireless system, i.e, 4G and alter some parameters in the Python code and show
+the effect.  Pre-requisites needed: A basic understanding of 4G technology; 4G
+technology is the one using which Reliance Jio is offering all the data plans
+right now.
+
+- Speaker: Ashok Govindarajan
+
+##### Introduction to Statecharts 
+
+This talk will be cover the deficiencies of existing State Machine based design,
+and how to overcome them using Statecharts. In the process we will also discuss
+a framework for working with Statecharts, and how to use it to build
+applications.
+
+- Speaker: Vijay Kumar
+
+---
+
+#### [March 25th 2017](#march-25th-2017)
+
+##### Iteration Protocol in Python
+
+I'll start with basics of iteration protocol and Create your own iterable object.
+
+- Speaker: Yogesh
+
+##### Dockerize your Python Development
+
+After a quick introduction to containers and docker, I will walk you through on
+developing your next python project with docker and deploying them. After this
+talk the audiences would have got started with docker and will know where to go
+next.
+
+- Speaker: Naren
+
+##### Why I love Python
+
+Over the years, as a programmer, I have worked with various programming
+languages: C, C++, Java, PHP and Python. And I have learnt the pros and cons of
+each language. In this talk, I will cover where the other languages fail, and
+why Python remains my personal favourite.
+
+- Speaker: Vijay Kumar 
+
+---
+
+#### [February 25th 2017](#february-25th-2017)
+
+##### General Intro to Types
+
+What are types? 
+Why types?
+Dynamic v Static typing
+Gradual typing
+Examples
+Advantages
+
+- Speaker: Shrayas
+
+##### Building Desktop GUI Apps using Python
+
+I will be using tkinter, talk and demonstrate about it's abilities and
+limitations. I will also briefly talk about PyQt/PySides too.
+
+- Speaker: Gaurav
+
+##### YAML Validation in Python
+
+At work, we use YAML to represent structured data, for tracking events, product
+details, course information, etc. As will all data entry, inputs are subject to
+human error, and needs to be validated. In this talk I will discuss my attempts
+at validating YAML, starting with a manual approach and then moving to a schema
+based approach.
+
+- Speaker: Vijay Kumar 
+
+---
 
 #### [January 28th 2017](#january-28th-2017)
 
