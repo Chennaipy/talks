@@ -68,15 +68,10 @@ applications.
 
 - Speaker: Vijay Kumar
 - Slides and code: [Dropbox](https://www.dropbox.com/sh/zkujtgo1h68i3nm/AABLRrzG-BPu8TrblVu17rRXa?dl=0)
+
 ---
 
 #### [March 25th 2017](#march-25th-2017)
-
-##### Iteration Protocol in Python
-
-I'll start with basics of iteration protocol and Create your own iterable object.
-
-- Speaker: Yogesh
 
 ##### Dockerize your Python Development
 
