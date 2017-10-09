@@ -9,7 +9,12 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2017
-  - [April](#april-23th-2017)
+  - [September](#september-23rd-2017)
+  - [August](#august-26th-2017)
+  - [July](#july-22nd-2017)
+  - [June](#june-24th-2017)
+  - [May](#may-27th-2017)
+  - [April](#april-23rd-2017)
   - [March](#march-25th-2017)
   - [February](#february-25th-2017)
   - [January](#january-28th-2017)
@@ -47,7 +52,149 @@ The content will be arranged in reverse chronological order
 
 ### 2017
 
-#### [April 23th 2017](#april-23th-2017)
+#### [September 23rd 2017](#september-23rd-2017)
+
+##### Redis PubSub
+
+The topics covered will be,
+1. Overview of Redis
+2. Discussion on most used Redis commands
+3. Implementing Redis pubsub in python using weather data
+
+- Speaker: Rohini
+
+##### Concurrency vs Parallelism
+
+Tasks can be made embarassingly parallel by crunching up the resources and using
+all CPU cores.  What if your resources are limited, How do we achieve the speed
+in execution of tasks?. In this talk we will discuss about achieving near
+parallelism with limited resources but at the same time knowing concurrency is
+not parallelism using real world examples
+
+- Speaker: Naren
+- Slides: [PDF](http://dudewho.codes/assets/slides/concurrency_vs_parallelism.pdf)
+- Code: [GitHub](https://github.com/DudeWhoCode/talks/tree/master/concurrency_vs_parallelism)
+
+##### ​Possibilities in the land of 1s and 0s
+
+This talk aims to open freshers up to the world of computer science. Tips on
+what to do and what not to. Additionally, I share the gist of what I've learnt
+in my 10+ years of writing code, working in teams and leading teams.
+
+- Speaker: Shrayas
+
+---
+
+#### [August 26th 2017](#august-26th-2017)
+
+##### Bringing Vangogh Back
+
+We all love photos. We love paintings too. What if we can apply the texture of
+famous paintings such as "Starry Night" to our every day photos to give them an
+enchanting look and feel?
+
+- Speaker: Krishna Sangeeth
+
+##### Python Immigrants!
+
+I thought of sharing the Python Ecosystem from the Immigrant perspective. The
+difference between someone like you and me is that you plan better, aim first
+and shoot it. Whereas, I do not have the luxury hence my approach will be shoot
+first, aim later. In other words, I have to jump into various Python Libraries
+such as, NumPy, Scipy, Matplotlib, TensorFlow even before mastering Python. I
+have to study the entire ecosystem together. I thought of sharing this ecosystem
+in the context of on-going excitement in Data Science, as an Immigrant to Python
+community.
+
+- Speaker: Parthiban Srinivasan
+
+##### The Easiest Way to do Command-line in Pytho
+
+An introduction to the module, ec, a module that makes python scripts more
+accessible through the shell (https://github.com/Laufire/ec)
+
+- Speaker: Viswanath
+
+---
+
+#### [July 22nd 2017](#july-22nd-2017)
+
+##### Using the Hypothesis package to solve the Fox-Hen-Grain problem
+
+Hypothesis is a Python package that helps in "property based testing". You can
+use it test your software by finding edge cases in your code you wouldn’t have
+thought to look for.
+
+One of the powerful features of Hypothesis is Stateful Testing - which helps in
+testing state machines. We will see how we can use Hypothesis to solve a couple
+of popular puzzles.
+
+- Speaker: Suresh VV
+
+##### Write code for humans, not machines
+
+Any average programmer can write code by sitting hours and hours, pushing
+themselves through the sleepless nights but what it takes to write a better
+readable software?.
+
+Forget about the design patterns, I will be talking ground
+zero from naming variables to handling errors in your python code. At the end of
+my talk the audience should be able to read their own code after 6 months
+without uttering the words "why did I write like this?"
+
+- Speaker: Naren
+- Slides: [PDF](http://dudewho.codes/assets/slides/writeCodeForHumans.pdf)
+
+##### Building a Chatbot for Slack using Stanford NLP
+
+We will build a custom Chatbot backend with Django (not using wit.ai, api.ai,
+etc.) to respond to user queries using Stanford NLP to analyze and extract
+intent.
+
+- Speaker: Prabakaran Kumaresshan
+- Slides: [GitHub](https://github.com/nixphix/meetup-chennaipy-jul2017-slackbot-stanfordnlp)
+
+---
+
+#### [June 24th 2017](#june-24th-2017)
+
+##### Workflow Automation using Apache Airflow
+
+An introductory tutorial on getting started on workflow automation with Apache
+Airflow by writing your first pipeline.
+
+- Speaker: Arvind Nedumaran
+
+##### Robot framework in Automation Testing
+
+This talk aims to cover how softwares are build from requirements and deriving
+test cases from requirement. Then we will look in to how these test cases are
+used in robot frame work to automate testing.
+
+- Speaker: Rengaraj
+
+---
+
+#### [May 27th 2017](#may-27th-2017)
+
+##### Integrating Python with Hadoop
+
+An complete step by step integrating python with hadoop ecosytem like streaming
+jar etc and about Latent semantic analysis to find the relationship between the
+documents.
+
+- Speaker: Venkatesh
+
+##### Convolutional Neural Network of Visual Recognition
+
+This talk about the Convolutional Neural Network for Object Recognition with
+demo using keras deep learning python package.
+
+- Speaker: Mohanraj
+
+---
+
+#### [April 23rd 2017](#april-23rd-2017)
 
 ##### Module development for wireless systems using Python
 
