@@ -9,6 +9,8 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2017
+  - [December](#december-23rd-2017)
+  - [November](#november-25th-2017)
   - [October](#october-28th-2017)
   - [September](#september-23rd-2017)
   - [August](#august-26th-2017)
@@ -52,6 +54,71 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2017
+
+#### [December 23rd 2017](#december-23rd-2017)
+
+##### The Python AST (abstract syntax trees) Module
+
+The AST module is a powerful python feature that allows to inspect and modify
+python code after it has been parsed but before the code is run. I will be
+talking about what an AST is, what the AST module allows you to do and what it
+can be used for.
+
+- Speaker: Subil 
+
+##### Deep Learning for Dummies
+
+I would using the following non-mathematical, easy to read deep learning
+tutorial as reference:
+http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf
+(http://www.cs.toronto.edu/%7Ehinton/absps/NatureDeepReview.pdf) This will be a
+general talk and not specific to Python.
+
+- Speaker: Ashok Govindarajan 
+
+##### Thinking Object Oriented
+
+Recently I implemented a small object oriented program. That triggered my
+interest in giving this talk. We will discuss about the problem i recently
+solved using objects using python.
+
+- Speaker: Rengaraj 
+
+#### [November 25th 2017](#november-25th-2017)
+
+##### Entry Points in Python
+
+I'll discuss how defining a `console_scripts` entry point for your package
+makes it accessible from the command line and a few example. I'll also discuss
+how entry points can be used to extend functionality of a package. See
+https://github.com/rahulporuri/talks/blob/master/py_entry_points/py_entry_points.pdf
+for slides.
+
+- Speaker: Poruri Sai Rahul 
+
+##### Why is it hard to predict?
+
+This talk would primarily be based on aspects of weather modeling and
+associated predictions. Also, I would briefly touch upon why the predictions
+during the recent US presidential elections, had an error. This talk would be
+of a general nature and not python-specific.
+
+Some references that would be useful:
+
+- http://www.irishweatheronline.com/current-weather/three-reasons-why-the-weather-forecast-is-always-wrong/ (https://gator3315.hostgator.com:2096/cpsess7948145282/3rdparty/squirrelmail/images/blank.png)
+- https://gator3315.hostgator.com:2096/cpsess7948145282/3rdparty/squirrelmail/images/blank.pnghttp://abcnews4.com/news/local/hugo-vs-irma-vs-matthew-historical-tracks (https://gator3315.hostgator.com:2096/cpsess7948145282/3rdparty/squirrelmail/images/blank.png)
+- https://www.quantamagazine.org/why-nate-silver-sam-wang-and-everyone-else-were-wrong-20161109/
+
+- Speaker: Ashok Govindarajan 
+
+##### Teaching Kids to Code
+
+In this talk, I will be discussing techniques and open source tools available
+for teaching programming to kids. I will be focusing specifically on the
+younger ones, 5+ years of age. The talk will include a demonstration of the
+BBC Micro:bit, a pocket sized computer. Draft slides: http://bit.ly/teach-kids-to-code
+
+- Speaker: Vijay Kumar 
 
 #### [October 28th 2017](#october-28th-2017)
 
