@@ -8,6 +8,13 @@ The content will be arranged in reverse chronological order
 
 ## Table of contents
 
+- 2018
+  - [May](#may-26th-2018)
+  - [April](#april-28th-2018)
+  - [March](#march-24th-2018)
+  - [February](#february-24th-2018)
+  - [January](#january-27th-2018)
+
 - 2017
   - [December](#december-23rd-2017)
   - [November](#november-25th-2017)
@@ -52,6 +59,175 @@ The content will be arranged in reverse chronological order
 - 2014
   - [December](#december-20th-2014)
   - [November](#november-29th-2014)
+
+### 2018
+
+#### [May 26th 2018](#may-26th-2018)
+
+##### How python is making astrophysical research easier
+
+I will give some simple examples of essential libraries like astropy, etc. and
+some possible future scopes where professional pythoners can contribute.
+
+- Speaker: Manjari
+
+##### Sultan and Errbot
+
+The talk will be how to implement a chaptops for managing your infrastructure
+more collaboratively. Where the bot be at your command on Slack, Hipchat or
+Discord.
+
+- Speaker: Samuel Vijaykumar
+
+#####  A brief introduction to NLP with Spacy
+
+Natural Language Processing is a prominent field in Artificial Intelligence
+that deals with parsing and understand Natural language, (an ordinary language
+such as English is any language that has evolved naturally in humans through
+use). NLP lies at the core of Google Duplex and other smart assistants that
+respond to questions in English and natural languages. I will be explaining the
+following :
+
+- Corpus and Datasets
+- Processing and tokenizing Text
+- Tagging, Stemming and Lemmatizing Words
+- Introduction to libraries
+  - NLTK
+  - Spacy
+- Sentiment Analysis
+- Word Embedding using BOW and word2vec
+
+- Speaker: Vishal Gupta
+
+#### [April 28th 2018](#april-28th-2018)
+
+##### Demystifying Python Magic __methods__
+
+The Why, What and How of magic methods.
+
+- Speaker: Naren
+
+##### How to create a sandhi checker for Tamil using python?
+
+Sandhi is kind of conjunction for tamil words. To check for this error
+is one of the tasks of a tamil spell checker. Tamil grammar gives
+clear rules to check for the error.
+
+- Speaker: Shrinivasan / Nithya
+
+Let us explore on how to implement tamil rules using python.
+
+##### Eduactiv8: Educational Games for Kids
+
+Eduactiv8 is an application built using PyGame, consisting of hundreds of
+educational games and activities for kids. In this talk, I will demonstrate the
+application, and will give some insight into adding your own games and
+activities to Eduactiv8.
+
+- Speaker: Vijay Kumar
+
+#### [March 24th 2018](#march-24th-2018)
+
+##### Dash - R Shiny's equivalent in Python
+
+Creating interactive web applications in Python using Dash. Dash helps in
+creating a responsive, custom styled application with interactive graphs,
+tables and other components.
+
+- Speaker: Arunram
+
+##### open-tamil and Ezhil language
+
+"Ezhil is the first freely available Tamil script based
+programming-language at http://ezhillang.org released for Windows 32,
+64 and Ubuntu, Fedora Linux, and Docker platforms in 2017. It is aimed
+towards removing English language barrier towards learning computing
+as a scientific field outside of language hurdles. In this talk I will
+present an overview of Ezhil. Ezhil has a Python-based interpreter and
+development happens via GitHub.
+
+Open-Tamil is a closely related Tamil language processing tools
+library originally started off as a graft of the Ezhil language
+routines but soon grew to include word-filtering, n-grams analysis,
+Tamil conjunction rules of grammar, Tamil spell checker, Tamil numeral
+generation, etc. i.e. a whole omnibus of Tamil tools mainly for
+Python, but also for Java, Ruby etc. Parts of our work are showcased
+at http://tamilpesu.us and Kalsee app on Play Store."
+
+Tamil version of abstract:
+
+எழில் என்பது முதல் திர மூலமாக கிடைக்கக்கூடிய தமிழ் ஸ்கிரிப்டை அடிப்படையாகக் கொண்ட நிரலாக்க மொழி ஆகும், இது விண்டோஸ் 32, 64 மற்றும் Ubuntu, Fedora Linux மற்றும் Docker தளங்களில் 2017 ஆம் ஆண்டில் வெளியான http://ezhillang.org.
+எழில் ஒரு பைத்தான்-அடிப்படையிலான மொழிஇயக்கி. வளர்ச்சி GitHub வழியாக நடைபெறுகிறது.
+
+திறந்த-தமிழ் தமிழ் நெருக்கமாக தொடர்புடைய தமிழ் மொழி செயலாக்க கருவிகள் கொன்டது; நூலகம் ஆரம்பத்தில் எழில் மொழியின் ஒரு கீற்றாக துவங்கியது; ஆனால் விரைவாக வார்த்தை-வடிகட்டுதல், N- கிராம் பகுப்பாய்வு, புணற்சசி
+இலக்கணம், தமிழ் எழுத்துப்பிழை சொல்திருத்தி உருவாக்கம் முதலியன, பல மொழிகளில் பைத்தான், முக்கியமாக, ஜாவா, ரூபி முதலியவற்றிற்கான தமிழ் தொகுப்புகள் பரிசுரம் செய்யபட்டன். http://tamilpesu.us வலையில், மற்றும் Play Store இல் Kalsee பயன்பாட்டில் எங்கள் வேலைகளை பயன்படுத்தலாம்.
+
+- Speaker: Muthu
+
+##### A for Async
+
+Through this talk I hope to present, the need for concurrent programming, and
+demonstrate a DIY tiny Async framework built using the Python 3.5 async / await
+keywords.
+
+- Speaker: Vijay Kumar
+
+#### [February 24th 2018](#february-24th-2018)
+
+##### Why Tensorflow for Deep Learning
+
+I would be talking about deep learning basics and why tensorflow is the best
+tool for implementing deep learning solutions.
+
+- Speaker: Manish 
+
+##### Porting a Django App to Google App Engine
+
+This talk will address the various issues encountered when porting a Django web
+application from a Shared Web hosting service to the Google Cloud. Some lessons
+learned will be discussed.
+
+- Speaker: Suresh
+
+##### String Theory: Bytes vs Strings
+
+In this, talk, I hope to shed light, on the need for two different types of
+strings: byte strings and character strings. The following topics will be
+covered as part of this talk
+
+- Binary files vs text files
+- Reading and writing binary files
+- Representation of Text
+- Converting Text to Bytes
+
+- Speaker: Vijay Kumar 
+
+#### [January 27th 2018](#january-27th-2018)
+
+##### A-Z on Embedded System for S/W People
+
+This talk covers about the Evolution of Electrical to Electronics to Embedded.
+Also explains the critical information required by the SW people while working
+on Embedded System. The difference between SW in computing system and Embedded
+System.
+
+- Speaker: Balajee 
+
+##### Python for machine learning
+
+This talk is about the application of Artificial Neural Networks for the image
+processing. I mainly wanted to touch base on two things 1. Tensorflow 2. Keras.
+I would then show a demo of how to use Keras to build a ANN model that can
+process image and do prediction. Intro - 2 min, Tensorflow - 5 min, Keras - 5
+min, Demo - 5 min, Q&A - 3 min
+
+- Speaker: Sundara Raman 
+
+##### Messenger - Chatbots
+
+This talk will be on chatbots, how chatbots are taking up space in the market.
+
+- Speaker: Mayank Gandhi 
 
 ### 2017
 
