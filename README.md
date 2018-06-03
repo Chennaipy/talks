@@ -9,6 +9,7 @@ The content will be arranged in reverse chronological order
 ## Table of contents
 
 - 2017
+  - [October](#october-28th-2017)
   - [September](#september-23rd-2017)
   - [August](#august-26th-2017)
   - [July](#july-22nd-2017)
@@ -51,6 +52,36 @@ The content will be arranged in reverse chronological order
   - [November](#november-29th-2014)
 
 ### 2017
+
+#### [October 28th 2017](#october-28th-2017)
+
+#### Writing CLI and coding up social media bots.
+
+CLI part will deal with interactive CLI using prompt toolkit, spinners and
+colorful text. Social media bots will be dealing with Twitter and Facebook. For
+eg. chatting with bots for predefined tasks, announcements by bots when meetup
+event is nearing up, like/retweet based on sentiment analysis etc. Focus will
+be to provide utilities which can be used by ChennaiPy and others.
+
+- Speaker: Gaurav 
+
+#### Introduction to GraphQL
+
+GraphQL is a system to manage client-server interactions developed by Facebook.
+This talk will cover why was GraphQL invented and how to use GraphQL in a
+python application
+
+- Speaker: Syed Suhail Ahmed
+
+#### Hot Topics in Deep Learning
+
+Python has become the language of choice for Artificial Intelligence. Within
+AI, “Deep Learning” is one of the buzz words we’ve all heard of but have no
+idea what it actually means. In this presentation, I try to demystify deep
+learning and other buzz words within Deep learning, such as Reinforcement
+Learning, Generative Adversarial Networks and One-shot Learning.
+
+- Speaker: Parthiban Srinivasan
 
 #### [September 23rd 2017](#september-23rd-2017)
 
